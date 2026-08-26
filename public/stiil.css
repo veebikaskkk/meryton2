@@ -608,18 +608,74 @@ ul {
   padding: var(--v3) var(--v3) var(--v2);
   background: var(--must);
   text-decoration: none;
+  overflow: hidden;
   transition: background-color 0.25s ease;
+}
+
+/* Selle tööliigi foto elab tausta all. Puhkeolekus on ta ainult tekstuur,
+   hiirega peale minnes tuleb nähtavale. Tumendus tuleb filtrist, nii et
+   valge tekst jääb igal pildil loetavaks. */
+.kast::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.14;
+  filter: grayscale(0.45) brightness(0.55);
+  transform: scale(1);
+  transition: opacity 0.35s ease, transform 0.6s ease;
+}
+
+.kast:hover::before,
+.kast:focus-visible::before {
+  opacity: 0.38;
+  transform: scale(1.06);
+}
+
+.kast > * {
+  position: relative;
+  z-index: 1;
 }
 
 .kast::after {
   content: '';
   position: absolute;
   inset: auto 0 0 0;
+  z-index: 2;
   height: 1px;
   background: var(--kuld);
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s ease;
+}
+
+/* Iga kast saab oma tööliigi pildi galeriist */
+.kast--eramu::before {
+  background-image: url('pildid/galerii/eramu-ehitus/pisi/eramu-ehitus-ja-puitterrass-10.webp');
+}
+.kast--porandad::before {
+  background-image: url('pildid/galerii/porandatood/pisi/kalasabaparketi-lahivaade-35.webp');
+}
+.kast--vannitoad::before {
+  background-image: url('pildid/galerii/vannitoad/pisi/dusiruumi-ehitus-marmorplaatidega-07.webp');
+}
+.kast--vesi::before {
+  background-image: url('pildid/galerii/vesi-ja-kanalisatsioon/pisi/boileri-ja-torustiku-paigaldus-vannitoas-17.webp');
+}
+.kast--kute::before {
+  background-image: url('pildid/galerii/kute-ja-ventilatsioon/pisi/kuttekollektori-paigaldus-manomeetriga-10.webp');
+}
+.kast--puit::before {
+  background-image: url('pildid/galerii/puittood/pisi/terrassi-ehitus-metallpiirdega-01.webp');
+}
+
+/* Puuteekraanil hõljumist ei ole, seega jääb pilt püsivalt õrnalt näha */
+@media (hover: none) {
+  .kast::before {
+    opacity: 0.26;
+  }
 }
 
 .kast:hover,
@@ -1350,50 +1406,6 @@ ul {
   margin-bottom: 0;
 }
 
-/* --- Korduvad küsimused -------------------------------------------------- */
-
-.kkk {
-  border-top: 1px solid var(--serv);
-}
-
-.kkk details {
-  border-bottom: 1px solid var(--serv);
-}
-
-.kkk summary {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: var(--v2);
-  padding: 1.25rem 0;
-  min-height: 44px;
-  font-family: var(--pealkiri);
-  font-size: 1.02rem;
-  font-weight: 600;
-  cursor: pointer;
-  list-style: none;
-}
-
-.kkk summary::-webkit-details-marker {
-  display: none;
-}
-
-.kkk summary::after {
-  content: '+';
-  flex: none;
-  font-size: 1.4rem;
-  font-weight: 400;
-  color: var(--kuld);
-}
-
-.kkk details[open] summary::after {
-  content: '\2013';
-}
-
-.kkk details p {
-  color: var(--hall);
-  padding-bottom: 1.25rem;
-}
 
 /* --- Vorm ---------------------------------------------------------------- */
 
@@ -1877,13 +1889,44 @@ legend {
     gap: var(--v3);
   }
 
-  .hero__rada {
-    flex-direction: column;
+  /* Kolm fakti jäävad kõrvuti, muidu kasvab päis ekraanist pikemaks.
+     Kitsal ekraanil käib pealkiri väiksena teksti kohale. */
+  .hero__rada li {
+    padding: 0.7rem 0.6rem 0.8rem;
+    text-align: center;
   }
 
-  .hero__rada li + li {
-    border-left: 0;
-    border-top: 1px solid var(--serv);
+  .hero__rada strong {
+    font-size: 0.82rem;
+    line-height: 1.25;
+  }
+
+  .hero__rada span {
+    font-size: 0.62rem;
+    line-height: 1.3;
+  }
+
+  /* Telefonis on pilt kitsas ja kõrge. Näitame kaadri alumist osa, kus
+     on päris töö, ja jätame ülekatte heledamaks, et foto oleks foto. */
+  .hero__foon {
+    background-position: center 78%;
+  }
+
+  .hero__vari {
+    background: linear-gradient(180deg,
+      rgba(11, 11, 12, 0.9) 0%,
+      rgba(11, 11, 12, 0.42) 26%,
+      rgba(11, 11, 12, 0.34) 46%,
+      rgba(11, 11, 12, 0.82) 72%,
+      rgba(11, 11, 12, 0.97) 100%);
+  }
+
+  .hero h1 {
+    font-size: clamp(1.85rem, 8vw, 2.4rem);
+  }
+
+  .hero__jutt {
+    font-size: 1rem;
   }
 
   .jaotis-pais--rida {
