@@ -1,0 +1,14 @@
+{
+  "name": "Meryton Group OÜ",
+  "short_name": "Meryton",
+  "description": "Ehitus ja renoveerimine Pärnumaal, Viljandimaal ja Harjumaal.",
+  "lang": "et",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    { "src": "/pildid/ikoonid/ikoon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/pildid/ikoonid/ikoon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

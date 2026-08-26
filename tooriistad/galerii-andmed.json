@@ -1,0 +1,2401 @@
+{
+  "kommentaar": "Galerii allikas. Kategooriate järjekord siin on ka järjekord lehel tood.html. Pildid lisab siia skript tooriistad/pildid.js, alt-tekstid kirjuta käsitsi. Pärast muudatust jooksuta: node tooriistad/pildid.js",
+  "kategooriad": [
+    {
+      "kaust": "porandatood",
+      "nimi": "Põrandatööd",
+      "kirjeldus": "Vaip, LVT, parkett ja muud pinnakatted eramutes ning alltöövõtu korras ka suurematel objektidel.",
+      "pildid": [
+        {
+          "allikas": "porandatood-01-meryton-group-porandatood-68831.jpg",
+          "nimi": "Põrandaplaatide paigaldus eramu tehnoruumis",
+          "fail": "porandaplaatide-paigaldus-eramu-tehnoruumis-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suureformaadiline hall plaatpõrand eramu tehnoruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-02-meryton-group-porandatood-68832.jpg",
+          "nimi": "Põrandaplaatide paigaldus põrandaluugi ümber",
+          "fail": "porandaplaatide-paigaldus-porandaluugi-umber-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hall plaatpõrand koos põrandaluugi ümber diagonaalselt lõigatud plaatidega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-03-meryton-group-porandatood-68840.jpg",
+          "nimi": "Vaipkatte paigaldus suures saalis",
+          "fail": "vaipkatte-paigaldus-suures-saalis-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Mustriline punane vaipkate paigaldamisel suure saali põrandale.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-04-meryton-group-porandatood-68841.jpg",
+          "nimi": "Betoonpõranda lihvimine",
+          "fail": "betoonporanda-lihvimine-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonpõranda lihvimine ehitusjärgus ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-05-meryton-group-porandatood-68842.jpg",
+          "nimi": "Vaipkatte paigaldus kaubandusruumis",
+          "fail": "vaipkatte-paigaldus-kaubandusruumis-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punase vaipkatte rullid ja osaliselt paigaldatud kate suures kaubandusruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-06-meryton-group-porandatood-68843.jpg",
+          "nimi": "Vaipkate saali fuajees",
+          "fail": "vaipkate-saali-fuajees-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Paigaldatud punane mustriline vaipkate saali fuajees.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-07-meryton-group-porandatood-68844.jpg",
+          "nimi": "Vaipkatte paigaldus saalis",
+          "fail": "vaipkatte-paigaldus-saalis-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumehall vaipkate paigaldamisel suures saalis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-08-meryton-group-porandatood-68845.jpg",
+          "nimi": "Vaibaplaatide paigaldus suures saalis",
+          "fail": "vaibaplaatide-paigaldus-suures-saalis-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hallsinised vaibaplaadid paigaldamisel suure saali põrandale.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-09-meryton-group-porandatood-68846.jpg",
+          "nimi": "Vaibaplaatide paigaldus",
+          "fail": "vaibaplaatide-paigaldus-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Osaliselt paigaldatud vaibaplaadid saalis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-10-meryton-group-porandatood-68847.jpg",
+          "nimi": "Põrandakatte paigaldus suures saalis",
+          "fail": "porandakatte-paigaldus-suures-saalis-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suur saal ehitusjärgus, põrandal osaliselt paigaldatud tume pinnakate.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-11-meryton-group-porandatood-68848.jpg",
+          "nimi": "Vaibaplaatide paigaldus ruumis",
+          "fail": "vaibaplaatide-paigaldus-ruumis-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vaibaplaadid osaliselt paigaldatud ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-12-meryton-group-porandatood-68849.jpg",
+          "nimi": "Vaipkatte paigaldus saali põrandal",
+          "fail": "vaipkatte-paigaldus-saali-porandal-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumehall vaipkate laotatud suure saali põrandale.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-13-meryton-group-porandatood-68850.jpg",
+          "nimi": "Mustrilise vaipkatte paigaldus",
+          "fail": "mustrilise-vaipkatte-paigaldus-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Mustriline must-valge vaipkate paigaldamisel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-14-meryton-group-porandatood-68851.jpg",
+          "nimi": "Vaipkatte paigaldus suures ruumis",
+          "fail": "vaipkatte-paigaldus-suures-ruumis-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Geomeetrilise mustriga vaipkate ja lahti rullimata rull suure ruumi põrandal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-15-meryton-group-porandatood-68852.jpg",
+          "nimi": "Mustriline vaipkate koridoris",
+          "fail": "mustriline-vaipkate-koridoris-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valmis paigaldatud must-valge mustriline vaipkate koridoris.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-16-meryton-group-porandatood-68853.jpg",
+          "nimi": "Vaipkatte rulli lahtirullimine",
+          "fail": "vaipkatte-rulli-lahtirullimine-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vaipkatte rull lahti rullimisel, all liimitud aluspõrand.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-17-meryton-group-porandatood-68854.jpg",
+          "nimi": "Vaipkatte liimimine",
+          "fail": "vaipkatte-liimimine-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kollase kärgmustriga vaipkate ja liimikamm paigaldustööl.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-18-meryton-group-porandatood-68855.jpg",
+          "nimi": "Vaipkate kaubanduskeskuses",
+          "fail": "vaipkate-kaubanduskeskuses-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kärgmustriga vaipkate suure keskuse ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-19-meryton-group-porandatood-68856.jpg",
+          "nimi": "Kinosaali vaipkatte paigaldus",
+          "fail": "kinosaali-vaipkatte-paigaldus-19.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kinosaali valge ekraaniseina ees mustriline vaipkate.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-20-meryton-group-porandatood-68857.jpg",
+          "nimi": "Kinofuajee põrandakate",
+          "fail": "kinofuajee-porandakate-20.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kinofuajee mustriline põrand, seintel värvilised paneelid ja ekraanid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-21-meryton-group-porandatood-68858.jpg",
+          "nimi": "Kinosaali vaipkate",
+          "fail": "kinosaali-vaipkate-21.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kinosaali tume mustriline vaipkate enne toolide paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-22-meryton-group-porandatood-68859.jpg",
+          "nimi": "Vaipkate suures ruumis",
+          "fail": "vaipkate-suures-ruumis-22.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suur ruum mustrilise vaipkattega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-23-meryton-group-porandatood-68860.jpg",
+          "nimi": "Mustrilise pinnakatte paigaldus",
+          "fail": "mustrilise-pinnakatte-paigaldus-23.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punane pinnakate valge mustriga, paigaldamisel dekoorielemendid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-24-meryton-group-porandatood-68867.jpg",
+          "nimi": "Põrandaplaatide ja puitpõranda üleminek",
+          "fail": "porandaplaatide-ja-puitporanda-uleminek-24.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kuusnurksed valged plaadid ja vana puitpõrand üleminekukohas kõrvuti.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-25-meryton-group-porandatood-68868.jpg",
+          "nimi": "Kuusnurksete põrandaplaatide paigaldus",
+          "fail": "kuusnurksete-porandaplaatide-paigaldus-25.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suureformaadilised kuusnurksed helehallid plaadid ruumi põrandal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-26-meryton-group-porandatood-68869.jpg",
+          "nimi": "Kuusnurkne plaatpõrand",
+          "fail": "kuusnurkne-plaatporand-26.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kuusnurkne helehall plaatpõrand.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-27-meryton-group-porandatood-68870.jpg",
+          "nimi": "Kuusnurkne plaatpõrand põrandaluugiga",
+          "fail": "kuusnurkne-plaatporand-porandaluugiga-27.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kuusnurkne plaatpõrand koos põrandaluugi raamiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-28-meryton-group-porandatood-68873.jpg",
+          "nimi": "Vana puitpõranda eemaldamine",
+          "fail": "vana-puitporanda-eemaldamine-28.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ruum, kus vana puitpõrand on lahti võetud ja uus materjal kimpudes ootel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-29-meryton-group-porandatood-68874.jpg",
+          "nimi": "Puitpõranda lihvimine ja lakkimine",
+          "fail": "puitporanda-lihvimine-ja-lakkimine-29.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Lakitud tume puitpõrand ruumis pärast lihvimist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-30-meryton-group-porandatood-68875.jpg",
+          "nimi": "Parketi paigaldus kalasabamustris",
+          "fail": "parketi-paigaldus-kalasabamustris-30.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kalasabamustris puitparkett paigaldamisel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-31-meryton-group-porandatood-68876.jpg",
+          "nimi": "Põrandakatte aluspind enne paigaldust",
+          "fail": "porandakatte-aluspind-enne-paigaldust-31.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Aluspõrand enne katte paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-32-meryton-group-porandatood-68877.jpg",
+          "nimi": "Kalasabaparketi paigaldus",
+          "fail": "kalasabaparketi-paigaldus-32.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kalasabamustris parketi paigaldus pooleli.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-33-meryton-group-porandatood-68878.jpg",
+          "nimi": "Kalasabaparkett valminud ruumis",
+          "fail": "kalasabaparkett-valminud-ruumis-33.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kalasabamustris hele puitparkett valminud ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-34-meryton-group-porandatood-68879.jpg",
+          "nimi": "Kalasabaparkett ja põrandaliist",
+          "fail": "kalasabaparkett-ja-porandaliist-34.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kalasabamustris parkett valge seina ja tumeda põrandaliistuga ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-35-meryton-group-porandatood-68880.jpg",
+          "nimi": "Kalasabaparketi lähivaade",
+          "fail": "kalasabaparketi-lahivaade-35.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kalasabaparkett tumeda põrandaliistu ääres lähivaates.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-36-meryton-group-porandatood-68881.jpg",
+          "nimi": "Betoonaluspõrand enne katte paigaldust",
+          "fail": "betoonalusporand-enne-katte-paigaldust-36.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonaluspõrand enne katte paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-37-meryton-group-porandatood-68882.jpg",
+          "nimi": "Puidumustriga põrandaplaadid",
+          "fail": "puidumustriga-porandaplaadid-37.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puidumustriga pikad plaadid põrandal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-38-meryton-group-porandatood-68883.jpg",
+          "nimi": "Puidumustriga plaatpõrand",
+          "fail": "puidumustriga-plaatporand-38.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puidumustriga plaatpõrand valminud ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-39-meryton-group-porandatood-68884.jpg",
+          "nimi": "Põranda tasandussegu",
+          "fail": "poranda-tasandussegu-39.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tasandussegu kuivamas enne pinnakatte paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-40-meryton-group-porandatood-68885.jpg",
+          "nimi": "Läikiv puidumustriga plaatpõrand",
+          "fail": "laikiv-puidumustriga-plaatporand-40.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Läikiv puidumustriga plaatpõrand pärast paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-41-meryton-group-porandatood-68888.jpg",
+          "nimi": "Vaipkatte rullid enne paigaldust",
+          "fail": "vaipkatte-rullid-enne-paigaldust-41.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vaipkatte rullid laos enne paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-42-meryton-group-porandatood-68889.jpg",
+          "nimi": "Munakivimustriga vinüülkate",
+          "fail": "munakivimustriga-vinuulkate-42.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Munakivimustriga vinüülkate ja lahti rullimata rull ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-43-meryton-group-porandatood-68890.jpg",
+          "nimi": "Põrandakatte paigaldus suures ruumis",
+          "fail": "porandakatte-paigaldus-suures-ruumis-43.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumehall pinnakate suures ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-44-meryton-group-porandatood-68891.jpg",
+          "nimi": "Vinüülkatte paigaldus",
+          "fail": "vinuulkatte-paigaldus-44.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Munakivimustriga kate ja tume vinüül kõrvuti paigaldamisel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-45-meryton-group-porandatood-68892.jpg",
+          "nimi": "Hall vaipkate suures ruumis",
+          "fail": "hall-vaipkate-suures-ruumis-45.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ühtlane hall vaipkate suure ruumi põrandal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-46-meryton-group-porandatood-68893.jpg",
+          "nimi": "Munakivimustriga põrand ja astmed",
+          "fail": "munakivimustriga-porand-ja-astmed-46.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Munakivimustriga põrand ja selle kõrval puitservaga astmed.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-47-meryton-group-porandatood-68894.jpg",
+          "nimi": "Vaipkate astmelisel platvormil",
+          "fail": "vaipkate-astmelisel-platvormil-47.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hall vaipkate astmelisel platvormil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-48-meryton-group-porandatood-68895.jpg",
+          "nimi": "Munakivimustriga vinüülkate seina ees",
+          "fail": "munakivimustriga-vinuulkate-seina-ees-48.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Munakivimustriga vinüülkate oranži seina ees.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-49-meryton-group-porandatood-68896.jpg",
+          "nimi": "Tume põrandakate suures ruumis",
+          "fail": "tume-porandakate-suures-ruumis-49.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tume põrandakate.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "porandatood-50-meryton-group-porandatood-68916.jpg",
+          "nimi": "Mustriliste põrandaplaatide paigaldus",
+          "fail": "mustriliste-porandaplaatide-paigaldus-50.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Musta-valge mustriga plaadid paigaldamisel.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "vannitoad",
+      "nimi": "Vannitoad",
+      "kirjeldus": "Vannitoa renoveerimine lammutusest valmis ruumini: torustik, hüdroisolatsioon, plaatimine ja sanitaartehnika.",
+      "pildid": [
+        {
+          "allikas": "vannitoad-01-meryton-group-vannitubade-remont-68341.jpg",
+          "nimi": "Duširuumi ehitus taimemustriga plaatidega",
+          "fail": "dusiruumi-ehitus-taimemustriga-plaatidega-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Taimemustriga seinaplaadid ja süvistatud riiulinišš duširuumis, must dušisegisti.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-02-meryton-group-vannitubade-remont-68342.jpg",
+          "nimi": "Vannitoa renoveerimine taimemustriga plaatidega",
+          "fail": "vannitoa-renoveerimine-taimemustriga-plaatidega-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Taimemustriga plaaditud duširuum musta dušisüsteemiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-03-meryton-group-vannitubade-remont-68343.jpg",
+          "nimi": "Vannitoa renoveerimine vanniga",
+          "fail": "vannitoa-renoveerimine-vanniga-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vanniga vannituba valgete seinaplaatidega, taga aken ribakardinaga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-04-meryton-group-vannitubade-remont-68344.jpg",
+          "nimi": "Vannitoa renoveerimine marmorimustriga plaatidega",
+          "fail": "vannitoa-renoveerimine-marmorimustriga-plaatidega-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Rippuv WC-pott ja klaasist dušisein beeži marmorimustrilise plaatpõrandaga vannitoas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-05-meryton-group-vannitubade-remont-68345.jpg",
+          "nimi": "Duširuumi ehitus puidumustriga plaatidega",
+          "fail": "dusiruumi-ehitus-puidumustriga-plaatidega-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puidumustriga seinaplaadid duširuumis, kõrval rippuv WC-pott ja klaasist dušisein.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-06-meryton-group-vannitubade-remont-68346.jpg",
+          "nimi": "Vannitoa renoveerimine mosaiikpõrandaga",
+          "fail": "vannitoa-renoveerimine-mosaiikporandaga-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Must-valge kuusnurkne mosaiikpõrand ja valged seinaplaadid, seinal rippuv WC-pott.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-07-meryton-group-vannitubade-remont-68348.jpg",
+          "nimi": "Duširuumi ehitus marmorplaatidega",
+          "fail": "dusiruumi-ehitus-marmorplaatidega-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge marmorimustriga suureformaadilised plaadid ja must aktsentsein duširuumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-08-meryton-group-vannitubade-remont-68349.jpg",
+          "nimi": "Duširuumi ehitus musta aktsentseinaga",
+          "fail": "dusiruumi-ehitus-musta-aktsentseinaga-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Duširuum valge marmorimustrilise põranda ja musta aktsentseinaga, seinas süvistatud nišš.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-09-meryton-group-vannitubade-remont-68350.jpg",
+          "nimi": "Vannitoa plaatimine marmorimustriga",
+          "fail": "vannitoa-plaatimine-marmorimustriga-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Marmorimustriga plaaditud vannitoa sein ja valge uks, paigaldus pooleli.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-10-meryton-group-vannitubade-remont-68351.jpg",
+          "nimi": "Duširuumi ehitus süvistatud riiuliga",
+          "fail": "dusiruumi-ehitus-suvistatud-riiuliga-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge marmorimustriline plaatsein koos süvistatud riiuliga duširuumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-11-meryton-group-vannitubade-remont-68352.jpg",
+          "nimi": "Vannitoa plaatimine süvistatud nišiga",
+          "fail": "vannitoa-plaatimine-suvistatud-nisiga-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge marmorimustriline plaatsein koos süvistatud nišiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-12-meryton-group-vannitubade-remont-68353.jpg",
+          "nimi": "Vannitoa seinaplaatide paigaldus",
+          "fail": "vannitoa-seinaplaatide-paigaldus-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Marmorimustrilised seinaplaadid koos plaadiristide ja tasandussüsteemiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-13-meryton-group-vannitubade-remont-68410.jpg",
+          "nimi": "Väikese vannitoa renoveerimine",
+          "fail": "vaikese-vannitoa-renoveerimine-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Väike vannituba heledate plaatide ja musta dušikomplektiga, all katuseaken.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-14-meryton-group-vannitubade-remont-68411.jpg",
+          "nimi": "Vannikasti plaatimine",
+          "fail": "vannikasti-plaatimine-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge plaaditud vannikast ja vertikaalses laotuses seinaplaadid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-15-meryton-group-vannitubade-remont-68415.jpg",
+          "nimi": "Kitsa vannitoa renoveerimine",
+          "fail": "kitsa-vannitoa-renoveerimine-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kitsas vannituba pika valamu ja katuseaknaga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-16-meryton-group-vannitubade-remont-68416.jpg",
+          "nimi": "Vannitoa renoveerimine kaldlaega ruumis",
+          "fail": "vannitoa-renoveerimine-kaldlaega-ruumis-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Rippuv WC-pott kaldlaega vannitoas, põrandal hallid plaadid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-17-meryton-group-vannitubade-remont-68423.jpg",
+          "nimi": "Vannitoa renoveerimine valamukapiga",
+          "fail": "vannitoa-renoveerimine-valamukapiga-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vannitoa valamukapp peegli ja must-valge mosaiikpõrandaga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-18-meryton-group-vannitubade-remont-68424.jpg",
+          "nimi": "Vannitoa renoveerimine peegli ja valamukapiga",
+          "fail": "vannitoa-renoveerimine-peegli-ja-valamukapiga-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Must valamukapp suure peegliga, all must-valge mustriline põrand.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-19-meryton-group-vannitubade-remont-68438.jpg",
+          "nimi": "Vannitoa renoveerimine rohelise plaadiga",
+          "fail": "vannitoa-renoveerimine-rohelise-plaadiga-19.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Rohelise mustriga plaatsein ja rippuv WC-pott, seinal kuldne liist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-20-meryton-group-vannitubade-remont-68439.jpg",
+          "nimi": "Duširuumi ehitus kuldse mosaiigiga",
+          "fail": "dusiruumi-ehitus-kuldse-mosaiigiga-20.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kuldse mosaiigiga duširuum ja kuldne dušisüsteem.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-21-meryton-group-vannitubade-remont-68440.jpg",
+          "nimi": "Vannitoa plaatimine heledate plaatidega",
+          "fail": "vannitoa-plaatimine-heledate-plaatidega-21.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Heledad seinaplaadid kitsa akna kõrval, põrandal must-valge mosaiik.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-22-meryton-group-vannitubade-remont-68441.jpg",
+          "nimi": "Vannitoa plaatimine",
+          "fail": "vannitoa-plaatimine-22.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Heledad seinaplaadid vannitoa nurgas, taga aken ja ehitusjärgus ruum.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-23-meryton-group-vannitubade-remont-68443.jpg",
+          "nimi": "Duširuumi ehitus mosaiikpõrandaga",
+          "fail": "dusiruumi-ehitus-mosaiikporandaga-23.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Duširuum kuldse dušisüsteemi ja mosaiikpõrandaga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-24-meryton-group-vannitubade-remont-68444.jpg",
+          "nimi": "Vannitoa renoveerimine rohelise plaatseinaga",
+          "fail": "vannitoa-renoveerimine-rohelise-plaatseinaga-24.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Rohelise mustriga plaatsein, rippuv WC-pott ja must-valge põrand.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-25-meryton-group-vannitubade-remont-68445.jpg",
+          "nimi": "Vannitoa mosaiikpõrand",
+          "fail": "vannitoa-mosaiikporand-25.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Must-valge mustriline mosaiikpõrand valminud vannitoas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-26-meryton-group-vannitubade-remont-68449.jpg",
+          "nimi": "Vannitoa valamupinna plaatimine",
+          "fail": "vannitoa-valamupinna-plaatimine-26.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Beež plaaditud valamupind ja tume uks vannitoas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-27-meryton-group-vannitubade-remont-68450.jpg",
+          "nimi": "Vannitoa renoveerimine töö käigus",
+          "fail": "vannitoa-renoveerimine-too-kaigus-27.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vannituba ehitusjärgus, valamu paigaldatud ja põrandal ehitusprügi.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-28-meryton-group-vannitubade-remont-68455.jpg",
+          "nimi": "Duširuumi ehitus suureformaadiliste plaatidega",
+          "fail": "dusiruumi-ehitus-suureformaadiliste-plaatidega-28.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hallid suureformaadilised seinaplaadid ja süvistatud nišš duširuumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-29-meryton-group-vannitubade-remont-68456.jpg",
+          "nimi": "Duširuumi plaatimine beežide plaatidega",
+          "fail": "dusiruumi-plaatimine-beezide-plaatidega-29.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Beežid suureformaadilised plaadid duširuumi seinal ja põrandal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-30-meryton-group-vannitubade-remont-68461.jpg",
+          "nimi": "Duširuumi seinaplaatide paigaldus",
+          "fail": "dusiruumi-seinaplaatide-paigaldus-30.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Duširuumi seinaplaadid tasandussüsteemi kiiludega paigaldamisel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-31-meryton-group-vannitubade-remont-68464.jpg",
+          "nimi": "Vannitoa plaatpõranda paigaldus trapiga",
+          "fail": "vannitoa-plaatporanda-paigaldus-trapiga-31.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hall looduskivi imiteeriv plaatpõrand koos põrandatrapiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-32-meryton-group-vannitubade-remont-68465.jpg",
+          "nimi": "Vannitoa plaatimine kalasabamustris",
+          "fail": "vannitoa-plaatimine-kalasabamustris-32.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valged kalasabamustris seinaplaadid ja hall plaatpõrand.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-33-meryton-group-vannitubade-remont-68460.jpg",
+          "nimi": "Vannitoa seinaplaatide paigaldus tasandusklambritega",
+          "fail": "vannitoa-seinaplaatide-paigaldus-tasandusklambritega-33.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suureformaadilised valged plaadid tasandusklambritega seinal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-34-meryton-group-vannitubade-remont-68466.jpg",
+          "nimi": "Duširuumi ehitus lõhutud kiviga seinaga",
+          "fail": "dusiruumi-ehitus-lohutud-kiviga-seinaga-34.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumehall lõhutud kiviga sein ja valged kalasabaplaadid duširuumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-35-meryton-group-vannitubade-remont-68467.jpg",
+          "nimi": "Vannitoa plaatpõranda paigaldus",
+          "fail": "vannitoa-plaatporanda-paigaldus-35.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Plaatpõrand tasandussüsteemi ja plaadiristidega paigaldamisel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-36-meryton-group-vannitubade-remont-68476.jpg",
+          "nimi": "Duširuumi ehitus retroplaatidega",
+          "fail": "dusiruumi-ehitus-retroplaatidega-36.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Mustriline retroplaat duširuumi seinal ja must dušisüsteem.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-37-meryton-group-vannitubade-remont-68477.jpg",
+          "nimi": "Vana vannitoa põrand enne remonti",
+          "fail": "vana-vannitoa-porand-enne-remonti-37.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vana WC-pott mustriliste põrandaplaatide keskel enne remonti.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-38-meryton-group-vannitubade-remont-68478.jpg",
+          "nimi": "Duširuumi lae viimistlus",
+          "fail": "dusiruumi-lae-viimistlus-38.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puidutoonis lagi ja süvistatud valgustid duširuumi kohal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-39-meryton-group-vannitubade-remont-68479.jpg",
+          "nimi": "Vannitoa valamu paigaldus",
+          "fail": "vannitoa-valamu-paigaldus-39.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ümar valamu puidust plaadil ja plaaditud sein taga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-40-meryton-group-vannitubade-remont-68504.jpg",
+          "nimi": "Vannitoa renoveerimine helesinise plaatseinaga",
+          "fail": "vannitoa-renoveerimine-helesinise-plaatseinaga-40.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Helesinine plaatsein ja rippuv WC-pott valminud vannitoas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-41-meryton-group-vannitubade-remont-68505.jpg",
+          "nimi": "Vannitoa renoveerimine valgete plaatidega",
+          "fail": "vannitoa-renoveerimine-valgete-plaatidega-41.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge plaaditud vannituba loputuskasti nupu ja riiuliga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-42-meryton-group-vannitubade-remont-68516.jpg",
+          "nimi": "Duširuumi ehitus peidetud segistiga",
+          "fail": "dusiruumi-ehitus-peidetud-segistiga-42.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Beežid suureformaadilised plaadid, nišš ja peidetud segisti duširuumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-43-meryton-group-vannitubade-remont-68527.jpg",
+          "nimi": "Duširuumi ehitus lineaartrapiga",
+          "fail": "dusiruumi-ehitus-lineaartrapiga-43.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hall plaaditud duširuum lineaartrapi ja dušisüsteemiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-44-meryton-group-vannitubade-remont-68528.jpg",
+          "nimi": "Saunaduširuumi ehitus",
+          "fail": "saunadusiruumi-ehitus-44.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitseintega saunaduširuum kahe dušisegistiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-45-meryton-group-vannitubade-remont-68529.jpg",
+          "nimi": "Vannitoa renoveerimine valminud tööna",
+          "fail": "vannitoa-renoveerimine-valminud-toona-45.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vannitoa uks ja plaaditud sein valminud ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-46-meryton-group-vannitubade-remont-68530.jpg",
+          "nimi": "Vannitoa lammutus ja torustik",
+          "fail": "vannitoa-lammutus-ja-torustik-46.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vannituba lammutusjärgus, seinas torustik ja hüdroisolatsiooniplaadid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-47-meryton-group-vannitubade-remont-68171.jpg",
+          "nimi": "Duširuumi plaatimine lõppjärgus",
+          "fail": "dusiruumi-plaatimine-loppjargus-47.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumehall plaatpõrand ja sein duširuumis, paigaldus lõppjärgus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-48-meryton-group-vannitubade-remont-68173.jpg",
+          "nimi": "Vannitoa valamukapi paigaldus",
+          "fail": "vannitoa-valamukapi-paigaldus-48.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge valamu tumedal kapil ja krohvitud sein taga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-49-meryton-group-vannitubade-remont-68174.jpg",
+          "nimi": "Vannitoa sein enne plaatimist",
+          "fail": "vannitoa-sein-enne-plaatimist-49.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Krohvitud sein vannitoas enne plaatimist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vannitoad-50-meryton-group-vannitubade-remont-68175.jpg",
+          "nimi": "Vana vannitoa lammutus",
+          "fail": "vana-vannitoa-lammutus-50.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vana vannituba lammutamisel, seinaplaadid osaliselt maha võetud.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "eramu-ehitus",
+      "nimi": "Eramu ehitus ja renoveerimine",
+      "kirjeldus": "Uued eramud ja vanade majade kordategemine, terve objekt või selle osa.",
+      "pildid": [
+        {
+          "allikas": "eramu-ehitus-01-meryton-group-eramu-ehitus-68490.jpg",
+          "nimi": "Eramu ehitus ja murukiviga sissesõidutee",
+          "fail": "eramu-ehitus-ja-murukiviga-sissesoidutee-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hallilaudine eramu koos murukiviga sissesõiduteega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-02-meryton-group-renoveerimine-68172.jpg",
+          "nimi": "Eramu renoveerimine elutoa viimistlusel",
+          "fail": "eramu-renoveerimine-elutoa-viimistlusel-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ehitusjärgus elutuba kollaseks viimistletud seina ja suure klaasseinaga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-03-meryton-group-eramu-ehitus-68489.jpg",
+          "nimi": "Eramu ehitus ja murukiviga plats",
+          "fail": "eramu-ehitus-ja-murukiviga-plats-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge laudisega eramu ja selle ees murukividega kaetud plats.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-04-meryton-group-renoveerimine-68124.jpg",
+          "nimi": "Eramu renoveerimine tellisseina avamisel",
+          "fail": "eramu-renoveerimine-tellisseina-avamisel-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vana tellissein ja puittalad renoveerimise käigus avatuna.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-05-meryton-group-eramu-ehitus-68491.jpg",
+          "nimi": "Murukivide paigaldus eramu juurde",
+          "fail": "murukivide-paigaldus-eramu-juurde-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Murukivide paigaldus eramu kõrvale, kivid osaliselt paigas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-06-meryton-group-eramu-ehitus-68492.jpg",
+          "nimi": "Terrassi kandepostid ja murukiviplats",
+          "fail": "terrassi-kandepostid-ja-murukiviplats-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Murukiviga plats eramu sissepääsu ees, püsti terrassi kandepostid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-07-meryton-group-eramu-ehitus-68493.jpg",
+          "nimi": "Murukivide aluspinna ettevalmistus",
+          "fail": "murukivide-aluspinna-ettevalmistus-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Aluspinna ettevalmistus murukivide paigalduseks, liiv tasandatud ja vibroplaat kohal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-08-meryton-group-eramu-ehitus-68494.jpg",
+          "nimi": "Drenaaži ja killustiku paigaldus eramu juures",
+          "fail": "drenaazi-ja-killustiku-paigaldus-eramu-juures-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Geotekstiil ja killustik aluspinnal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-09-meryton-group-eramu-ehitus-68495.jpg",
+          "nimi": "Betoonplaadi valu eramu sissepääsu ette",
+          "fail": "betoonplaadi-valu-eramu-sissepaasu-ette-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Eramu sissepääsu ette valatud betoonplaat.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-10-meryton-group-eramu-ehitus-68500.jpg",
+          "nimi": "Eramu ehitus ja puitterrass",
+          "fail": "eramu-ehitus-ja-puitterrass-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge eramu ja selle ees valminud puitterrass.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-11-meryton-group-eramu-ehitus-68502.jpg",
+          "nimi": "Eramu ehitus halli laudisega",
+          "fail": "eramu-ehitus-halli-laudisega-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Hallilaudine eramu ja selle ees valminud puitterrass.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-12-meryton-group-eramu-ehitus-68520.jpg",
+          "nimi": "Terrassi aluskonstruktsiooni ehitus",
+          "fail": "terrassi-aluskonstruktsiooni-ehitus-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Terrassilaudade aluskonstruktsioon paigaldamisel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-13-meryton-group-eramu-ehitus-68521.jpg",
+          "nimi": "Puitkarkassmaja ehitus",
+          "fail": "puitkarkassmaja-ehitus-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkarkassiga eramu püstitatud seinte ja katusefermidega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-14-meryton-group-eramu-ehitus-68522.jpg",
+          "nimi": "Eramu karkassi ja soojustuse paigaldus",
+          "fail": "eramu-karkassi-ja-soojustuse-paigaldus-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Metallkarkass ja kollane soojustus ehitusjärgus hoonel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-15-meryton-group-eramu-ehitus-68523.jpg",
+          "nimi": "Puitkarkassmaja seinad vundamendil",
+          "fail": "puitkarkassmaja-seinad-vundamendil-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkarkassmaja seinad ja katusefermid vundamendil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-16-meryton-group-eramu-ehitus-68524.jpg",
+          "nimi": "Puitkarkassi püstitamine",
+          "fail": "puitkarkassi-pustitamine-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkarkassi püstitamine.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-17-meryton-group-eramu-ehitus-68525.jpg",
+          "nimi": "Vundamendiplaat ja karkassi nurk",
+          "fail": "vundamendiplaat-ja-karkassi-nurk-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valatud vundamendiplaat ja püstitatud karkassi nurk.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-18-meryton-group-eramu-ehitus-68526.jpg",
+          "nimi": "Puitkarkassi seinad enne katust",
+          "fail": "puitkarkassi-seinad-enne-katust-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkarkassi seinad ehitusplatsil enne katuse paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-19-meryton-group-eramu-ehitus-68531.jpg",
+          "nimi": "Vundamendi armatuur enne valu",
+          "fail": "vundamendi-armatuur-enne-valu-19.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi armatuurvõrk enne valu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-20-meryton-group-eramu-ehitus-68532.jpg",
+          "nimi": "Vundamendiplaadi valu",
+          "fail": "vundamendiplaadi-valu-20.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Värskelt valatud vundamendiplaat ja selle kõrval pinnas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-21-meryton-group-eramu-ehitus-68533.jpg",
+          "nimi": "Vundamendi armatuur ja torustik",
+          "fail": "vundamendi-armatuur-ja-torustik-21.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi armatuur ja torustik enne betoonivalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-22-meryton-group-eramu-ehitus-68534.jpg",
+          "nimi": "Küttetorud vundamendi soojustusel",
+          "fail": "kuttetorud-vundamendi-soojustusel-22.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punased ja sinised küttetorud vundamendi soojustusel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-23-meryton-group-eramu-ehitus-68535.jpg",
+          "nimi": "Vundamendi soojustuse paigaldus",
+          "fail": "vundamendi-soojustuse-paigaldus-23.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi soojustusplaadid paigaldatud ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-24-meryton-group-eramu-ehitus-68536.jpg",
+          "nimi": "Vundamendi soojustus ja servaprofiil",
+          "fail": "vundamendi-soojustus-ja-servaprofiil-24.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi soojustusplaadid koos servaprofiiliga lähivaates.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-25-meryton-group-eramu-ehitus-68537.jpg",
+          "nimi": "Ehitusplatsi ettevalmistus",
+          "fail": "ehitusplatsi-ettevalmistus-25.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ettevalmistatud ehitusplats enne vundamendi rajamist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-26-meryton-group-eramu-ehitus-68538.jpg",
+          "nimi": "Kaablikaitsetorude paigaldus kaevikusse",
+          "fail": "kaablikaitsetorude-paigaldus-kaevikusse-26.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaevikusse paigaldatud kollased kaablikaitsetorud.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-27-meryton-group-eramu-ehitus-68539.jpg",
+          "nimi": "Aluspinna ettevalmistus geotekstiiliga",
+          "fail": "aluspinna-ettevalmistus-geotekstiiliga-27.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Geotekstiil ja liiv aluspinnal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-28-meryton-group-eramu-ehitus-68540.jpg",
+          "nimi": "Pinnasetööd eramu ehitusplatsil",
+          "fail": "pinnasetood-eramu-ehitusplatsil-28.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kopplaadur pinnasetöödel ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-29-meryton-group-eramu-ehitus-68541.jpg",
+          "nimi": "Kaablikaitsetoru paigaldus",
+          "fail": "kaablikaitsetoru-paigaldus-29.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kollane kaablikaitsetoru kaevikus koos kaabliga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-30-meryton-group-eramu-ehitus-68542.jpg",
+          "nimi": "Pinnase teisaldamine ehitusplatsil",
+          "fail": "pinnase-teisaldamine-ehitusplatsil-30.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Pinnase teisaldamine kopplaaduriga ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-31-meryton-group-eramu-ehitus-68543.jpg",
+          "nimi": "Ehitusplatsi märgistus enne kaevetöid",
+          "fail": "ehitusplatsi-margistus-enne-kaevetoid-31.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ehitusplats vaiadega märgistatud enne kaevetöid.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-32-meryton-group-eramu-ehitus-68544.jpg",
+          "nimi": "Krunt enne eramu ehitust",
+          "fail": "krunt-enne-eramu-ehitust-32.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ettevalmistamata krunt enne ehitustööde algust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-33-meryton-group-eramu-ehitus-68362.jpg",
+          "nimi": "Eramu katusekonstruktsioon seestpoolt",
+          "fail": "eramu-katusekonstruktsioon-seestpoolt-33.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkarkassiga katusekonstruktsioon seestpoolt.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-34-meryton-group-eramu-ehitus-68363.jpg",
+          "nimi": "Armatuurvõrk raketises",
+          "fail": "armatuurvork-raketises-34.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Armatuurvõrk raketises enne betoonivalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-35-meryton-group-eramu-ehitus-68364.jpg",
+          "nimi": "Vahelae raketis ja soojustus",
+          "fail": "vahelae-raketis-ja-soojustus-35.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Raketis ja kollane soojustus vahelae valuks.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-36-meryton-group-eramu-ehitus-68366.jpg",
+          "nimi": "Puittala paigaldus plokkmüürile",
+          "fail": "puittala-paigaldus-plokkmuurile-36.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Plokkmüürile paigaldatud puittala koos ankrutega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-37-meryton-group-eramu-ehitus-68365.jpg",
+          "nimi": "Puitfermide paigaldus",
+          "fail": "puitfermide-paigaldus-37.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitfermid paigaldatud plokkmüürile.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "eramu-ehitus-38-meryton-group-eramu-ehitus-68361.jpg",
+          "nimi": "Katusefermide paigaldus",
+          "fail": "katusefermide-paigaldus-38.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Katusefermid hoone kohal.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "siseviimistlus",
+      "nimi": "Siseviimistlus ja plaatimine",
+      "kirjeldus": "Seinad, laed ja plaaditud pinnad, mis jäävad lõpuks silma alla.",
+      "pildid": [
+        {
+          "allikas": "siseviimistlus-01-meryton-group-siseviimistlustood-68839.jpg",
+          "nimi": "Krohvitud sisesein enne viimistlust",
+          "fail": "krohvitud-sisesein-enne-viimistlust-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Krohvitud sisesein enne viimistlust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-02-meryton-group-plaatimistood-68899.jpg",
+          "nimi": "Kivisillutise paigaldus hoone ette",
+          "fail": "kivisillutise-paigaldus-hoone-ette-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suurte klaasakendega hoone välisilme, ees värskelt paigaldatud kivisillutis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-03-meryton-group-siseviimistlustood-68359.jpg",
+          "nimi": "Seinaplaatide paigaldus kuusnurksete plaatidega",
+          "fail": "seinaplaatide-paigaldus-kuusnurksete-plaatidega-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Piklikud kuusnurksed seinaplaadid beežides ja hallides toonides.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-04-meryton-group-plaatimistood-68903.jpg",
+          "nimi": "Graniidist välistrepp ja kivisillutis",
+          "fail": "graniidist-valistrepp-ja-kivisillutis-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Graniidist välistrepp ja selle kõrval kivisillutis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-05-meryton-group-siseviimistlustood-68360.jpg",
+          "nimi": "Letiesise plaatimine",
+          "fail": "letiesise-plaatimine-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaarjas letiesine plaatimisel valgete piklike plaatidega, all näha hüdroisolatsioon.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-06-meryton-group-plaatimistood-68904.jpg",
+          "nimi": "Kivisillutise paigaldus klaasseina ette",
+          "fail": "kivisillutise-paigaldus-klaasseina-ette-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Klaasseinaga hoone välisilme, ees kivisillutis ja armatuurivardad.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-07-meryton-group-siseviimistlustood-68401.jpg",
+          "nimi": "Seinaplaatide paigaldus siseruumis",
+          "fail": "seinaplaatide-paigaldus-siseruumis-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Piklike kuusnurksete plaatidega kaetud sein siseruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-08-meryton-group-plaatimistood-68909.jpg",
+          "nimi": "Lävepaku ja profiili paigaldus",
+          "fail": "lavepaku-ja-profiili-paigaldus-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ukseava lävepaku ja profiili paigaldus betoonpõrandal, väljas kivisillutis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-09-meryton-group-siseviimistlustood-68402.jpg",
+          "nimi": "Kaarja siseseina krohvimine",
+          "fail": "kaarja-siseseina-krohvimine-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaarjas sisesein ehitusjärgus, pind krohvitud ja ootab viimistlust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-10-meryton-group-plaatimistood-68910.jpg",
+          "nimi": "Kivisillutise paigaldus",
+          "fail": "kivisillutise-paigaldus-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kivisillutis hoone ees, keskel tume kattega ala.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-11-meryton-group-siseviimistlustood-68403.jpg",
+          "nimi": "Letiesise plaatimine kuusnurksete plaatidega",
+          "fail": "letiesise-plaatimine-kuusnurksete-plaatidega-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaarjas letiesine kaetud piklike kuusnurksete plaatidega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-12-meryton-group-plaatimistood-68911.jpg",
+          "nimi": "Sissepääsuala plaatimine",
+          "fail": "sissepaasuala-plaatimine-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tume plaaditud sissepääsuala ja selle ümber kivisillutis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-13-meryton-group-siseviimistlustood-68404.jpg",
+          "nimi": "Kaarja seinakonstruktsiooni ehitus",
+          "fail": "kaarja-seinakonstruktsiooni-ehitus-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaarjas seinakonstruktsioon ehitusjärgus ruumis, põrandal märgistus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-14-meryton-group-siseviimistlustood-68405.jpg",
+          "nimi": "Tapeedi paigaldus siseseinale",
+          "fail": "tapeedi-paigaldus-siseseinale-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Mustriline tapeet paigaldamisel siseseinale.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-15-meryton-group-siseviimistlustood-68447.jpg",
+          "nimi": "Seinaplaatide paigaldus ja elektritööd",
+          "fail": "seinaplaatide-paigaldus-ja-elektritood-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Rohelise plaadiga sein ja kollase teibiga märgistatud elektripaigaldus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-16-meryton-group-siseviimistlustood-68462.jpg",
+          "nimi": "Lõhutud kiviga sein ja kalasabaplaat",
+          "fail": "lohutud-kiviga-sein-ja-kalasabaplaat-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumeda lõhutud kiviga sein ja valge kalasabaplaat kõrvuti.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-17-meryton-group-siseviimistlustood-68463.jpg",
+          "nimi": "Suureformaadiliste seinaplaatide paigaldus",
+          "fail": "suureformaadiliste-seinaplaatide-paigaldus-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suureformaadiline hall plaat seinal ja tume tellissein taga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-18-meryton-group-siseviimistlustood-68488.jpg",
+          "nimi": "Puitplokkidest dekoratiivsein",
+          "fail": "puitplokkidest-dekoratiivsein-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitplokkidest laotud dekoratiivsein ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-19-meryton-group-siseviimistlustood-68496.jpg",
+          "nimi": "Kaminaümbrise viimistlus elutoas",
+          "fail": "kaminaumbrise-viimistlus-elutoas-19.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valge kaminaümbris ja puitparkett valminud elutoas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "siseviimistlus-20-meryton-group-siseviimistlustood-68497.jpg",
+          "nimi": "Kaminaümbris valminud ruumis",
+          "fail": "kaminaumbris-valminud-ruumis-20.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaminaümbris ja sile valge sein valminud ruumis.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "vesi-ja-kanalisatsioon",
+      "nimi": "Vesi ja kanalisatsioon",
+      "kirjeldus": "Eramute vee- ja kanalisatsioonitorustik, nii uus kui ka vana väljavahetamine.",
+      "pildid": [
+        {
+          "allikas": "vesi-ja-kanalisatsioon-01-meryton-group-kanalisatsioonitood-68861.jpg",
+          "nimi": "Kanalisatsioonitorustiku kaeviku ettevalmistus",
+          "fail": "kanalisatsioonitorustiku-kaeviku-ettevalmistus-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Geotekstiiliga kaetud kaevik enne torustiku paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-02-meryton-group-kanalisatsioonitood-68862.jpg",
+          "nimi": "Kanalisatsioonimahuti paigaldus",
+          "fail": "kanalisatsioonimahuti-paigaldus-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Oranž kanalisatsioonimahuti paigaldatud kaevikusse.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-03-meryton-group-kanalisatsioonitood-68863.jpg",
+          "nimi": "Kanalisatsioonitoru paigaldus kaevikusse",
+          "fail": "kanalisatsioonitoru-paigaldus-kaevikusse-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kanalisatsioonitoru kaevikus, servad kaetud geotekstiiliga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-04-meryton-group-kanalisatsioonitood-68864.jpg",
+          "nimi": "Kanalisatsioonimahuti paigaldus ja pinnase tihendamine",
+          "fail": "kanalisatsioonimahuti-paigaldus-ja-pinnase-tihendamine-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kanalisatsioonimahuti kaevikus, kõrval pinnase tihendamiseks vibroplaat.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-05-meryton-group-kanalisatsioonitood-68865.jpg",
+          "nimi": "Kanalisatsioonitoru paigaldus",
+          "fail": "kanalisatsioonitoru-paigaldus-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Oranž kanalisatsioonitoru paigaldatud kaevikusse.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-06-meryton-group-kanalisatsioonitood-68866.jpg",
+          "nimi": "Kanalisatsioonimahuti paigaldusvalmis",
+          "fail": "kanalisatsioonimahuti-paigaldusvalmis-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Oranž mahuti rihmadega paigaldusvalmis, all liivapadi.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-07-meryton-group-kanalisatsioonitood-68912.jpg",
+          "nimi": "Imbväljaku ehitus",
+          "fail": "imbvaljaku-ehitus-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Geotekstiiliga vooderdatud kaevik imbväljaku jaoks.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-08-meryton-group-kanalisatsioonitood-68913.jpg",
+          "nimi": "Kanalisatsioonitorude paigaldus killustikku",
+          "fail": "kanalisatsioonitorude-paigaldus-killustikku-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustikuga täidetud kaevik ja selle servades kanalisatsioonitorud.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-09-meryton-group-kanalisatsioonitood-68914.jpg",
+          "nimi": "Kaeviku killustikpadi ja soojustus",
+          "fail": "kaeviku-killustikpadi-ja-soojustus-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustikpadi ja soojustusplaadid kaevikus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-10-meryton-group-kanalisatsioonitood-68915.jpg",
+          "nimi": "Vundamendi soojustuse paigaldus liivapadjale",
+          "fail": "vundamendi-soojustuse-paigaldus-liivapadjale-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi soojustusplaadid ja servaprofiil paigaldatud liivapadjale.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-11-meryton-group-kanalisatsioonitood-68920.jpg",
+          "nimi": "Veetorustiku ühendus ja sulgeventiil",
+          "fail": "veetorustiku-uhendus-ja-sulgeventiil-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Veetorustiku ühendus ja sulgeventiil kaevikus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-12-meryton-group-kanalisatsioonitood-68347.jpg",
+          "nimi": "Torustiku vahetus põrandaava kaudu",
+          "fail": "torustiku-vahetus-porandaava-kaudu-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Avatud põrandaava torustiku vahetuseks, all seisev vesi.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-13-meryton-group-kanalisatsioonitood-68393.jpg",
+          "nimi": "Kanalisatsiooni püstiku paigaldus",
+          "fail": "kanalisatsiooni-pustiku-paigaldus-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kanalisatsioonitorud püstiku jaoks liivases aluspõrandas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-14-meryton-group-kanalisatsioonitood-68412.jpg",
+          "nimi": "Duširuumi lineaartrapp valminud tööna",
+          "fail": "dusiruumi-lineaartrapp-valminud-toona-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Beežide plaatidega duširuum ja lineaartrapp valminud tööna.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-15-meryton-group-kanalisatsioonitood-68419.jpg",
+          "nimi": "Sooja vee boileri ja torustiku paigaldus",
+          "fail": "sooja-vee-boileri-ja-torustiku-paigaldus-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Sooja vee boiler ja torustik puitseintega tehnoruumis, põrand avatud.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-16-meryton-group-kanalisatsioonitood-68420.jpg",
+          "nimi": "Torustiku paigaldus puitpõranda alla",
+          "fail": "torustiku-paigaldus-puitporanda-alla-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Avatud puitpõrand torustiku paigalduseks, all must isolatsioon.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-17-meryton-group-kanalisatsioonitood-68421.jpg",
+          "nimi": "Boileri ja torustiku paigaldus vannitoas",
+          "fail": "boileri-ja-torustiku-paigaldus-vannitoas-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Boiler ja torustik vanni kõrval puitseintega ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "vesi-ja-kanalisatsioon-18-meryton-group-kanalisatsioonitood-68433.jpg",
+          "nimi": "Kanalisatsioonitorude paigaldus põranda alla",
+          "fail": "kanalisatsioonitorude-paigaldus-poranda-alla-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandalaudade alla paigaldatud kanalisatsioonitorud ja killustik.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "kute-ja-ventilatsioon",
+      "nimi": "Küte ja ventilatsioon",
+      "kirjeldus": "Kütte- ja ventilatsioonisüsteemide paigaldus eramutes vastavalt projektile.",
+      "pildid": [
+        {
+          "allikas": "kute-ja-ventilatsioon-01-meryton-group-kuttesusteemid-68871.jpg",
+          "nimi": "Veetorustiku paigaldus seina",
+          "fail": "veetorustiku-paigaldus-seina-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punased ja sinised veetorud paigaldatud seina enne kinnikatmist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-02-meryton-group-kuttesusteemid-68872.jpg",
+          "nimi": "Loputuskastide ja veetorude paigaldus",
+          "fail": "loputuskastide-ja-veetorude-paigaldus-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Peidetud loputuskastide raamid ja veetorud kipsseina taga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-03-meryton-group-kuttesusteemid-68354.jpg",
+          "nimi": "Sooja vee boileri ja jaotuskollektori paigaldus",
+          "fail": "sooja-vee-boileri-ja-jaotuskollektori-paigaldus-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Sooja vee boiler ja siniste torudega jaotuskollektor tehnoruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-04-meryton-group-kuttesusteemid-68376.jpg",
+          "nimi": "Põrandakütte paigaldus enne põrandavalu",
+          "fail": "porandakutte-paigaldus-enne-porandavalu-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik paigaldatud ruumides enne põrandavalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-05-meryton-group-kuttesusteemid-68377.jpg",
+          "nimi": "Põrandakütte torustiku paigaldus",
+          "fail": "porandakutte-torustiku-paigaldus-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik ruumide vahel enne tasandusvalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-06-meryton-group-kuttesusteemid-68378.jpg",
+          "nimi": "Põrandakütte jaotuskollektori paigaldus",
+          "fail": "porandakutte-jaotuskollektori-paigaldus-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte jaotuskollektor tehnoruumi seinal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-07-meryton-group-kuttesusteemid-68381.jpg",
+          "nimi": "Põrandakütte paigaldus vundamendi soojustusele",
+          "fail": "porandakutte-paigaldus-vundamendi-soojustusele-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik paigaldatud eramu vundamendi soojustusele.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-08-meryton-group-kuttesusteemid-68382.jpg",
+          "nimi": "Põrandakütte paigaldus enne betoonivalu",
+          "fail": "porandakutte-paigaldus-enne-betoonivalu-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendile paigaldatud põrandakütte torustik enne betoonivalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-09-meryton-group-kuttesusteemid-68383.jpg",
+          "nimi": "Põrandakütte torustik ja soojustus vundamendil",
+          "fail": "porandakutte-torustik-ja-soojustus-vundamendil-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik ja soojustus vundamendil enne valu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-10-meryton-group-kuttesusteemid-68384.jpg",
+          "nimi": "Küttekollektori paigaldus manomeetriga",
+          "fail": "kuttekollektori-paigaldus-manomeetriga-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Messingist küttekollektor manomeetri ja torude ühendustega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-11-meryton-group-kuttesusteemid-68385.jpg",
+          "nimi": "Põrandakütte kollektorikapp",
+          "fail": "porandakutte-kollektorikapp-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte kollektorikapp ehitusplatsil enne paigaldust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-12-meryton-group-kuttesusteemid-68386.jpg",
+          "nimi": "Põrandakütte jaotuskollektor sulgeventiilidega",
+          "fail": "porandakutte-jaotuskollektor-sulgeventiilidega-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte jaotuskollektor kapis koos sulgeventiilidega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-13-meryton-group-kuttesusteemid-68389.jpg",
+          "nimi": "Veetorude paigaldus läbi seina",
+          "fail": "veetorude-paigaldus-labi-seina-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punased ja sinised veetorud tulemas läbi seina, kõrval puitraam.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-14-meryton-group-kuttesusteemid-68390.jpg",
+          "nimi": "Vee- ja küttetorude paigaldus vundamendile",
+          "fail": "vee-ja-kuttetorude-paigaldus-vundamendile-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vee- ja küttetorud paigaldatud soojustatud vundamendile.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-15-meryton-group-kuttesusteemid-68391.jpg",
+          "nimi": "Küttetorude paigaldus enne tasandusvalu",
+          "fail": "kuttetorude-paigaldus-enne-tasandusvalu-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punased ja sinised torud betoonpõrandal enne tasandusvalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-16-meryton-group-kuttesusteemid-68406.jpg",
+          "nimi": "Põrandakütte paigaldus alumiiniumsoojustusele",
+          "fail": "porandakutte-paigaldus-alumiiniumsoojustusele-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik alumiiniumkattega soojustusel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-17-meryton-group-kuttesusteemid-68407.jpg",
+          "nimi": "Põrandakütte torustik ja kollektor",
+          "fail": "porandakutte-torustik-ja-kollektor-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik ja jaotuskollektor ruumis enne valu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-18-meryton-group-kuttesusteemid-68408.jpg",
+          "nimi": "Põrandakütte torustiku paigaldus soojustusele",
+          "fail": "porandakutte-torustiku-paigaldus-soojustusele-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik kaarena alumiiniumsoojustusel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-19-meryton-group-kuttesusteemid-68409.jpg",
+          "nimi": "Põrandakütte torustik soojustusplaatidel",
+          "fail": "porandakutte-torustik-soojustusplaatidel-19.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tihedalt paigaldatud põrandakütte torustik soojustusplaatidel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-20-meryton-group-kuttesusteemid-68422.jpg",
+          "nimi": "Paisupaagi ja küttekollektori paigaldus",
+          "fail": "paisupaagi-ja-kuttekollektori-paigaldus-20.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Punane paisupaak ja küttekollektor puitseinal tehnoruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-21-meryton-group-kuttesusteemid-68425.jpg",
+          "nimi": "Veetorude ja ventiilide paigaldus",
+          "fail": "veetorude-ja-ventiilide-paigaldus-21.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Sinised veetorud ja ventiilid tehnoruumi seinal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-22-meryton-group-kuttesusteemid-68426.jpg",
+          "nimi": "Veefiltrite ja jaotuskollektori paigaldus",
+          "fail": "veefiltrite-ja-jaotuskollektori-paigaldus-22.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Veefiltrid ja jaotuskollektor kipsseinal paigaldatuna.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-23-meryton-group-kuttesusteemid-68428.jpg",
+          "nimi": "Torustiku paigaldus betoonseinale",
+          "fail": "torustiku-paigaldus-betoonseinale-23.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Torustik betoonseinal enne ruumi viimistlust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-24-meryton-group-kuttesusteemid-68430.jpg",
+          "nimi": "Põrandakütte paigaldus vundamendile",
+          "fail": "porandakutte-paigaldus-vundamendile-24.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Põrandakütte torustik vundamendil, ümber puitraketis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-25-meryton-group-kuttesusteemid-68431.jpg",
+          "nimi": "Paisupaagi ja veetorustiku paigaldus",
+          "fail": "paisupaagi-ja-veetorustiku-paigaldus-25.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Paisupaak ja veetorustik puitseintega tehnoruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-26-meryton-group-kuttesusteemid-68498.jpg",
+          "nimi": "Küttesüsteemi kollektori paigaldus",
+          "fail": "kuttesusteemi-kollektori-paigaldus-26.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Küttesüsteemi kollektor, paisupaak ja filtrid tehnoruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-27-meryton-group-kuttesusteemid-68499.jpg",
+          "nimi": "Küttesüsteemi sõlme paigaldus",
+          "fail": "kuttesusteemi-solme-paigaldus-27.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Küttesüsteemi sõlm koos manomeetrite ja filtritega seinal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-28-meryton-group-kuttesusteemid-68501.jpg",
+          "nimi": "Veefiltrite ja jaotustorustiku paigaldus",
+          "fail": "veefiltrite-ja-jaotustorustiku-paigaldus-28.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Veefiltrid ja jaotustorustik plokkseinal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-29-meryton-group-kuttesusteemid-68518.jpg",
+          "nimi": "Tehnoruumi torustiku paigaldus",
+          "fail": "tehnoruumi-torustiku-paigaldus-29.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kitsas tehnoruum torustiku ja seadmetega, põrandas ava.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "kute-ja-ventilatsioon-30-meryton-group-kuttesusteemid-68519.jpg",
+          "nimi": "Küttesüsteemi torustiku paigaldus",
+          "fail": "kuttesusteemi-torustiku-paigaldus-30.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Torustik ja seadmed viimistlemata seina ees.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "puittood",
+      "nimi": "Terrassid ja varjualused",
+      "kirjeldus": "Puittööd õue ja majja, enamasti kohapeal mõõtude järgi paika pandud.",
+      "pildid": [
+        {
+          "allikas": "puittood-01-meryton-group-puitehitised-68897.jpg",
+          "nimi": "Terrassi ehitus metallpiirdega",
+          "fail": "terrassi-ehitus-metallpiirdega-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitterrass metallpiirdega ja puidust trepp eramu küljel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "puittood-02-meryton-group-puitehitised-68457.jpg",
+          "nimi": "Varjualuse ehitus eramu sissepääsu ette",
+          "fail": "varjualuse-ehitus-eramu-sissepaasu-ette-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Musta karkassiga varjualune eramu sissepääsu ees talvel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "puittood-03-meryton-group-puitehitised-68458.jpg",
+          "nimi": "Terrassi ehitus tumeda puiduga",
+          "fail": "terrassi-ehitus-tumeda-puiduga-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumedaks viimistletud puitterrass eramu ukse ees talvisel ajal.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "puittood-04-meryton-group-puitehitised-68459.jpg",
+          "nimi": "Terrassi ribisirmi ehitus",
+          "fail": "terrassi-ribisirmi-ehitus-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Tumedatest laudadest ribisirm eramu terrassi varjeks.",
+          "originaal": "300x200"
+        }
+      ]
+    },
+    {
+      "kaust": "valitood",
+      "nimi": "Välitööd ja vundament",
+      "kirjeldus": "Vundament, betoon, katus, aed ja tänavakivi, ehk kõik see, mis jääb maja seintest väljapoole.",
+      "pildid": [
+        {
+          "allikas": "valitood-01-meryton-group-betoonitood-68833.jpg",
+          "nimi": "Betoonpõranda valu",
+          "fail": "betoonporanda-valu-01.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Värskelt valatud betoonpõrand hoone sees enne viimistlust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-02-meryton-group-vundamenditood-68900.jpg",
+          "nimi": "Vundamendimüüri ladumine",
+          "fail": "vundamendimuuri-ladumine-02.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendiplokkidest müür kaevikus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-03-meryton-group-katusetood-68355.jpg",
+          "nimi": "Vundamendi soojustuse paigaldus enne valu",
+          "fail": "vundamendi-soojustuse-paigaldus-enne-valu-03.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendisoojustus paigaldatud ja märgistatud enne betoonivalu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-04-meryton-group-aia-ehitus-68372.jpg",
+          "nimi": "Ehitusaia paigaldus",
+          "fail": "ehitusaia-paigaldus-04.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Sinine ehitusaed vana tellishoone ees.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-05-meryton-group-pinnasetood-68905.jpg",
+          "nimi": "Vundamendi killustikpadi ja servaprofiil",
+          "fail": "vundamendi-killustikpadi-ja-servaprofiil-05.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustikpadi ja vundamendi servaprofiil enne valu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-06-meryton-group-tanavakivide-paigaldus-68436.jpg",
+          "nimi": "Sillutuskivide paigaldus",
+          "fail": "sillutuskivide-paigaldus-06.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Sillutuskivide paigaldus maja kõrval.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-07-meryton-group-betoonitood-68834.jpg",
+          "nimi": "Betoonpõranda valu ja silumine",
+          "fail": "betoonporanda-valu-ja-silumine-07.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Silutud betoonpõrand siseruumis kohe pärast valu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-08-meryton-group-vundamenditood-68901.jpg",
+          "nimi": "Vundamendimüüri ehitus plokkidest",
+          "fail": "vundamendimuuri-ehitus-plokkidest-08.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Plokkidest vundamendimüür ja selle ümber killustik.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-09-meryton-group-katusetood-68356.jpg",
+          "nimi": "Vundamendi soojustus ja armatuur",
+          "fail": "vundamendi-soojustus-ja-armatuur-09.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi soojustus ja armatuurivõrgu märgistus ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-10-meryton-group-aia-ehitus-68373.jpg",
+          "nimi": "Aia ehitus ja tänavakivi",
+          "fail": "aia-ehitus-ja-tanavakivi-10.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puidust aed ja selle ees tume kattega plats.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-11-meryton-group-pinnasetood-68906.jpg",
+          "nimi": "Betoonplaadi valu maja ette",
+          "fail": "betoonplaadi-valu-maja-ette-11.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonplaat valatud maja ette.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-12-meryton-group-tanavakivide-paigaldus-68437.jpg",
+          "nimi": "Betoonkivisillutise paigaldus",
+          "fail": "betoonkivisillutise-paigaldus-12.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Suureformaadiline hall betoonkivisillutis paigaldatud.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-13-meryton-group-betoonitood-68835.jpg",
+          "nimi": "Betoonpõranda lihvimine",
+          "fail": "betoonporanda-lihvimine-13.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonpõrand siseruumis pärast lihvimist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-14-meryton-group-vundamenditood-68902.jpg",
+          "nimi": "Vundamendiplokkide paigaldus",
+          "fail": "vundamendiplokkide-paigaldus-14.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendiplokkide paigaldus kaevikusse.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-15-meryton-group-katusetood-68357.jpg",
+          "nimi": "Betoonvalu raketise ettevalmistus",
+          "fail": "betoonvalu-raketise-ettevalmistus-15.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonvalu raketise ettevalmistus öisel ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-16-meryton-group-aia-ehitus-68374.jpg",
+          "nimi": "Killustikuga platsi rajamine",
+          "fail": "killustikuga-platsi-rajamine-16.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustikuga kaetud plats vana tellishoone ees.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-17-meryton-group-pinnasetood-68907.jpg",
+          "nimi": "Aluspinna ettevalmistus geotekstiiliga",
+          "fail": "aluspinna-ettevalmistus-geotekstiiliga-17.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Geotekstiil ja killustik aluspinna ettevalmistusel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-18-meryton-group-betoonitood-68836.jpg",
+          "nimi": "Betoonpõranda värvimine",
+          "fail": "betoonporanda-varvimine-18.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Värvitud betoonpõrand ja sein siseruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-19-meryton-group-vundamenditood-68921.jpg",
+          "nimi": "Torustiku ja kaablikaitse paigaldus kaevikusse",
+          "fail": "torustiku-ja-kaablikaitse-paigaldus-kaevikusse-19.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Torustik ja kaablikaitse kaevikus kivise pinnase sees.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-20-meryton-group-katusetood-68358.jpg",
+          "nimi": "Puitkonstruktsiooni ehitus betoonalusel",
+          "fail": "puitkonstruktsiooni-ehitus-betoonalusel-20.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkonstruktsioon betoonalusel öisel ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-21-meryton-group-aia-ehitus-68375.jpg",
+          "nimi": "Ehitusplatsi märgistus",
+          "fail": "ehitusplatsi-margistus-21.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Ehitusplats postidega märgistatud.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-22-meryton-group-pinnasetood-68908.jpg",
+          "nimi": "Geomembraani paigaldus aluspinnale",
+          "fail": "geomembraani-paigaldus-aluspinnale-22.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Must geomembraan laotatud liivasele aluspinnale.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-23-meryton-group-betoonitood-68837.jpg",
+          "nimi": "Betoonpõrand siseruumis",
+          "fail": "betoonporand-siseruumis-23.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaetud betoonpõrand siseruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-24-meryton-group-vundamenditood-68922.jpg",
+          "nimi": "Vundamendi servaprofiili paigaldus",
+          "fail": "vundamendi-servaprofiili-paigaldus-24.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi servaprofiil ja soojustus kaevikus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-25-meryton-group-katusetood-68396.jpg",
+          "nimi": "Puitkonstruktsiooni ehitus",
+          "fail": "puitkonstruktsiooni-ehitus-25.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Puitkonstruktsioon ümmargusel alusel ehitusjärgus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-26-meryton-group-aia-ehitus-68388.jpg",
+          "nimi": "Betoonelementide ladustamine ehitusplatsil",
+          "fail": "betoonelementide-ladustamine-ehitusplatsil-26.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Virnastatud betoonelemendid ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-27-meryton-group-betoonitood-68838.jpg",
+          "nimi": "Betoonpõranda valu põrandatrapiga",
+          "fail": "betoonporanda-valu-porandatrapiga-27.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Silutud betoonpõrand siseruumis koos põrandatrapiga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-28-meryton-group-vundamenditood-68923.jpg",
+          "nimi": "Torustiku ja soojustuse paigaldus vundamendi juures",
+          "fail": "torustiku-ja-soojustuse-paigaldus-vundamendi-juures-28.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Torustik ja soojustus kaevikus vundamendi kõrval.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-29-meryton-group-aia-ehitus-68394.jpg",
+          "nimi": "Killustikuga platsi rajamine aia juurde",
+          "fail": "killustikuga-platsi-rajamine-aia-juurde-29.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustikuga plats vana hoone ja puitaia vahel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-30-meryton-group-betoonitood-68886.jpg",
+          "nimi": "Vundamendi soojustusplaadi paigaldus",
+          "fail": "vundamendi-soojustusplaadi-paigaldus-30.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi soojustusplaat ja servaprofiil sügiseses pinnases.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-31-meryton-group-vundamenditood-68924.jpg",
+          "nimi": "Vundamendivormi paigaldus",
+          "fail": "vundamendivormi-paigaldus-31.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendivorm paigaldatud liivasele alusele.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-32-meryton-group-aia-ehitus-68395.jpg",
+          "nimi": "Vundamendi soojustusplaatide ladustamine",
+          "fail": "vundamendi-soojustusplaatide-ladustamine-32.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Virnastatud soojustusplaadid kollase servaga ehitusplatsil.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-33-meryton-group-betoonitood-68887.jpg",
+          "nimi": "Betoonpõranda valu siseruumis",
+          "fail": "betoonporanda-valu-siseruumis-33.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Värskelt valatud betoonpõrand siseruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-34-meryton-group-vundamenditood-68925.jpg",
+          "nimi": "Vundamendimüüri ladumine plokkidest",
+          "fail": "vundamendimuuri-ladumine-plokkidest-34.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Plokkidest vundamendimüür ja selle kõrval pinnas.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-35-meryton-group-betoonitood-68898.jpg",
+          "nimi": "Kaeviku killustik ja servakivi",
+          "fail": "kaeviku-killustik-ja-servakivi-35.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Kaevik killustikuga ja betoonist servakiviga.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-36-meryton-group-vundamenditood-68926.jpg",
+          "nimi": "Vundamendivormi paigaldus enne valu",
+          "fail": "vundamendivormi-paigaldus-enne-valu-36.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendivorm liivasel alusel enne valu.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-37-meryton-group-betoonitood-68337.jpg",
+          "nimi": "Betoonpõranda lihvimine siseruumis",
+          "fail": "betoonporanda-lihvimine-siseruumis-37.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Sile betoonpõrand pärast lihvimist.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-38-meryton-group-betoonitood-68338.jpg",
+          "nimi": "Lihvitud betoonpõrand",
+          "fail": "lihvitud-betoonporand-38.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Läikiv lihvitud betoonpõrand ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-39-meryton-group-betoonitood-68339.jpg",
+          "nimi": "Betoonpõranda deformatsioonivuugid",
+          "fail": "betoonporanda-deformatsioonivuugid-39.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonpõrand deformatsioonivuukidega suures ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-40-meryton-group-betoonitood-68340.jpg",
+          "nimi": "Lihvitud betoonpõrand suures ruumis",
+          "fail": "lihvitud-betoonporand-suures-ruumis-40.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Lihvitud betoonpõrand suures ruumis.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-41-meryton-group-betoonitood-68370.jpg",
+          "nimi": "Betoonist välistrepi ehitus",
+          "fail": "betoonist-valistrepi-ehitus-41.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Betoonist välistrepp maja sissepääsu ees.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-42-meryton-group-betoonitood-68371.jpg",
+          "nimi": "Välistrepi hüdroisolatsioon",
+          "fail": "valistrepi-hudroisolatsioon-42.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Välistrepi hüdroisolatsioon ja märgistus enne viimistlust.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-43-meryton-group-betoonitood-68379.jpg",
+          "nimi": "Vundamendi raketis ja soojustus",
+          "fail": "vundamendi-raketis-ja-soojustus-43.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi raketis ja soojustus valu ootel.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-44-meryton-group-betoonitood-68380.jpg",
+          "nimi": "Vundamendiplaadi valu ankrutega",
+          "fail": "vundamendiplaadi-valu-ankrutega-44.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Värskelt valatud vundamendiplaat koos ankrutega.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-45-meryton-group-betoonitood-68387.jpg",
+          "nimi": "Geomembraani ja raketise paigaldus",
+          "fail": "geomembraani-ja-raketise-paigaldus-45.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Must geomembraan ja raketis vundamendiplaadi all.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-46-meryton-group-betoonitood-68392.jpg",
+          "nimi": "Vundamendi raketise paigaldus",
+          "fail": "vundamendi-raketise-paigaldus-46.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Vundamendi raketise paigaldus.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-47-meryton-group-betoonitood-68417.jpg",
+          "nimi": "Vundamendiala killustikuga täitmine",
+          "fail": "vundamendiala-killustikuga-taitmine-47.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustikuga täidetud vundamendiala ja tellingud.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-48-meryton-group-betoonitood-68418.jpg",
+          "nimi": "Metalltugede paigaldus seina äärde",
+          "fail": "metalltugede-paigaldus-seina-aarde-48.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Metalltoed ja killustik hoone seina ääres.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-49-meryton-group-betoonitood-68432.jpg",
+          "nimi": "Killustiku tasandamine vundamendi jaoks",
+          "fail": "killustiku-tasandamine-vundamendi-jaoks-49.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Killustiku tasandamine kollase latiga vundamendi jaoks.",
+          "originaal": "300x200"
+        },
+        {
+          "allikas": "valitood-50-meryton-group-betoonitood-68429.jpg",
+          "nimi": "Vundamendiplaadi valu",
+          "fail": "vundamendiplaadi-valu-50.webp",
+          "laius": 300,
+          "korgus": 200,
+          "alt": "Valatud vundamendiplaat rohelisel krundil.",
+          "originaal": "300x200"
+        }
+      ]
+    }
+  ]
+}

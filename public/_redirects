@@ -1,0 +1,14 @@
+# Vana leht kasutas .html-lõpuga aadresse. Workeri assets suunab need
+# ise 307-ga ümber, aga Google'i jaoks on püsiv 301 selgem.
+
+/index.html       /            301
+/teenused.html    /teenused    301
+/tood.html        /tood        301
+/kontakt.html     /kontakt     301
+/privaatsus.html  /privaatsus  301
+/aitah.html       /aitah       301
+/meist.html       /meist       301
+
+# Vana leht, mis võeti maha
+/artiklid.html    /            301
+/artiklid         /            301

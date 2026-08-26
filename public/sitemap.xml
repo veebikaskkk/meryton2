@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.meryton.ee/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.meryton.ee/meist</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.meryton.ee/teenused</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.meryton.ee/tood</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/porandaplaatide-paigaldus-eramu-tehnoruumis-01.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Suureformaadiline hall plaatpõrand eramu tehnoruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/porandaplaatide-paigaldus-porandaluugi-umber-02.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Hall plaatpõrand koos põrandaluugi ümber diagonaalselt lõigatud plaatidega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-paigaldus-suures-saalis-03.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Mustriline punane vaipkate paigaldamisel suure saali põrandale.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/betoonporanda-lihvimine-04.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Betoonpõranda lihvimine ehitusjärgus ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-paigaldus-kaubandusruumis-05.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Punase vaipkatte rullid ja osaliselt paigaldatud kate suures kaubandusruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkate-saali-fuajees-06.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Paigaldatud punane mustriline vaipkate saali fuajees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-paigaldus-saalis-07.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Tumehall vaipkate paigaldamisel suures saalis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaibaplaatide-paigaldus-suures-saalis-08.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Hallsinised vaibaplaadid paigaldamisel suure saali põrandale.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaibaplaatide-paigaldus-09.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Osaliselt paigaldatud vaibaplaadid saalis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/porandakatte-paigaldus-suures-saalis-10.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Suur saal ehitusjärgus, põrandal osaliselt paigaldatud tume pinnakate.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaibaplaatide-paigaldus-ruumis-11.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Vaibaplaadid osaliselt paigaldatud ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-paigaldus-saali-porandal-12.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Tumehall vaipkate laotatud suure saali põrandale.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/mustrilise-vaipkatte-paigaldus-13.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Mustriline must-valge vaipkate paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-paigaldus-suures-ruumis-14.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Geomeetrilise mustriga vaipkate ja lahti rullimata rull suure ruumi põrandal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/mustriline-vaipkate-koridoris-15.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Valmis paigaldatud must-valge mustriline vaipkate koridoris.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-rulli-lahtirullimine-16.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Vaipkatte rull lahti rullimisel, all liimitud aluspõrand.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-liimimine-17.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kollase kärgmustriga vaipkate ja liimikamm paigaldustööl.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkate-kaubanduskeskuses-18.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kärgmustriga vaipkate suure keskuse ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kinosaali-vaipkatte-paigaldus-19.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kinosaali valge ekraaniseina ees mustriline vaipkate.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kinofuajee-porandakate-20.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kinofuajee mustriline põrand, seintel värvilised paneelid ja ekraanid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kinosaali-vaipkate-21.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kinosaali tume mustriline vaipkate enne toolide paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkate-suures-ruumis-22.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Suur ruum mustrilise vaipkattega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/mustrilise-pinnakatte-paigaldus-23.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Punane pinnakate valge mustriga, paigaldamisel dekoorielemendid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/porandaplaatide-ja-puitporanda-uleminek-24.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kuusnurksed valged plaadid ja vana puitpõrand üleminekukohas kõrvuti.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kuusnurksete-porandaplaatide-paigaldus-25.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Suureformaadilised kuusnurksed helehallid plaadid ruumi põrandal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kuusnurkne-plaatporand-26.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kuusnurkne helehall plaatpõrand.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kuusnurkne-plaatporand-porandaluugiga-27.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kuusnurkne plaatpõrand koos põrandaluugi raamiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vana-puitporanda-eemaldamine-28.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Ruum, kus vana puitpõrand on lahti võetud ja uus materjal kimpudes ootel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/puitporanda-lihvimine-ja-lakkimine-29.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Lakitud tume puitpõrand ruumis pärast lihvimist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/parketi-paigaldus-kalasabamustris-30.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kalasabamustris puitparkett paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/porandakatte-aluspind-enne-paigaldust-31.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Aluspõrand enne katte paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kalasabaparketi-paigaldus-32.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kalasabamustris parketi paigaldus pooleli.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kalasabaparkett-valminud-ruumis-33.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kalasabamustris hele puitparkett valminud ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kalasabaparkett-ja-porandaliist-34.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kalasabamustris parkett valge seina ja tumeda põrandaliistuga ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/kalasabaparketi-lahivaade-35.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Kalasabaparkett tumeda põrandaliistu ääres lähivaates.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/betoonalusporand-enne-katte-paigaldust-36.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Betoonaluspõrand enne katte paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/puidumustriga-porandaplaadid-37.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Puidumustriga pikad plaadid põrandal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/puidumustriga-plaatporand-38.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Puidumustriga plaatpõrand valminud ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/poranda-tasandussegu-39.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Tasandussegu kuivamas enne pinnakatte paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/laikiv-puidumustriga-plaatporand-40.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Läikiv puidumustriga plaatpõrand pärast paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkatte-rullid-enne-paigaldust-41.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Vaipkatte rullid laos enne paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/munakivimustriga-vinuulkate-42.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Munakivimustriga vinüülkate ja lahti rullimata rull ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/porandakatte-paigaldus-suures-ruumis-43.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Tumehall pinnakate suures ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vinuulkatte-paigaldus-44.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Munakivimustriga kate ja tume vinüül kõrvuti paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/hall-vaipkate-suures-ruumis-45.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Ühtlane hall vaipkate suure ruumi põrandal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/munakivimustriga-porand-ja-astmed-46.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Munakivimustriga põrand ja selle kõrval puitservaga astmed.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/vaipkate-astmelisel-platvormil-47.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Hall vaipkate astmelisel platvormil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/munakivimustriga-vinuulkate-seina-ees-48.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Munakivimustriga vinüülkate oranži seina ees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/tume-porandakate-suures-ruumis-49.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Tume põrandakate.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/porandatood/mustriliste-porandaplaatide-paigaldus-50.webp</image:loc>
+      <image:title>Põrandatööd</image:title>
+      <image:caption>Musta-valge mustriga plaadid paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-taimemustriga-plaatidega-01.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Taimemustriga seinaplaadid ja süvistatud riiulinišš duširuumis, must dušisegisti.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-taimemustriga-plaatidega-02.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Taimemustriga plaaditud duširuum musta dušisüsteemiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-vanniga-03.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vanniga vannituba valgete seinaplaatidega, taga aken ribakardinaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-marmorimustriga-plaatidega-04.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Rippuv WC-pott ja klaasist dušisein beeži marmorimustrilise plaatpõrandaga vannitoas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-puidumustriga-plaatidega-05.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Puidumustriga seinaplaadid duširuumis, kõrval rippuv WC-pott ja klaasist dušisein.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-mosaiikporandaga-06.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Must-valge kuusnurkne mosaiikpõrand ja valged seinaplaadid, seinal rippuv WC-pott.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-marmorplaatidega-07.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valge marmorimustriga suureformaadilised plaadid ja must aktsentsein duširuumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-musta-aktsentseinaga-08.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Duširuum valge marmorimustrilise põranda ja musta aktsentseinaga, seinas süvistatud nišš.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatimine-marmorimustriga-09.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Marmorimustriga plaaditud vannitoa sein ja valge uks, paigaldus pooleli.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-suvistatud-riiuliga-10.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valge marmorimustriline plaatsein koos süvistatud riiuliga duširuumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatimine-suvistatud-nisiga-11.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valge marmorimustriline plaatsein koos süvistatud nišiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-seinaplaatide-paigaldus-12.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Marmorimustrilised seinaplaadid koos plaadiristide ja tasandussüsteemiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vaikese-vannitoa-renoveerimine-13.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Väike vannituba heledate plaatide ja musta dušikomplektiga, all katuseaken.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannikasti-plaatimine-14.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valge plaaditud vannikast ja vertikaalses laotuses seinaplaadid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/kitsa-vannitoa-renoveerimine-15.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Kitsas vannituba pika valamu ja katuseaknaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-kaldlaega-ruumis-16.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Rippuv WC-pott kaldlaega vannitoas, põrandal hallid plaadid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-valamukapiga-17.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vannitoa valamukapp peegli ja must-valge mosaiikpõrandaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-peegli-ja-valamukapiga-18.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Must valamukapp suure peegliga, all must-valge mustriline põrand.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-rohelise-plaadiga-19.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Rohelise mustriga plaatsein ja rippuv WC-pott, seinal kuldne liist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-kuldse-mosaiigiga-20.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Kuldse mosaiigiga duširuum ja kuldne dušisüsteem.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatimine-heledate-plaatidega-21.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Heledad seinaplaadid kitsa akna kõrval, põrandal must-valge mosaiik.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatimine-22.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Heledad seinaplaadid vannitoa nurgas, taga aken ja ehitusjärgus ruum.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-mosaiikporandaga-23.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Duširuum kuldse dušisüsteemi ja mosaiikpõrandaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-rohelise-plaatseinaga-24.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Rohelise mustriga plaatsein, rippuv WC-pott ja must-valge põrand.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-mosaiikporand-25.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Must-valge mustriline mosaiikpõrand valminud vannitoas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-valamupinna-plaatimine-26.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Beež plaaditud valamupind ja tume uks vannitoas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-too-kaigus-27.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vannituba ehitusjärgus, valamu paigaldatud ja põrandal ehitusprügi.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-suureformaadiliste-plaatidega-28.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Hallid suureformaadilised seinaplaadid ja süvistatud nišš duširuumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-plaatimine-beezide-plaatidega-29.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Beežid suureformaadilised plaadid duširuumi seinal ja põrandal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-seinaplaatide-paigaldus-30.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Duširuumi seinaplaadid tasandussüsteemi kiiludega paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatporanda-paigaldus-trapiga-31.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Hall looduskivi imiteeriv plaatpõrand koos põrandatrapiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatimine-kalasabamustris-32.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valged kalasabamustris seinaplaadid ja hall plaatpõrand.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-seinaplaatide-paigaldus-tasandusklambritega-33.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Suureformaadilised valged plaadid tasandusklambritega seinal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-lohutud-kiviga-seinaga-34.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Tumehall lõhutud kiviga sein ja valged kalasabaplaadid duširuumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-plaatporanda-paigaldus-35.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Plaatpõrand tasandussüsteemi ja plaadiristidega paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-retroplaatidega-36.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Mustriline retroplaat duširuumi seinal ja must dušisüsteem.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vana-vannitoa-porand-enne-remonti-37.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vana WC-pott mustriliste põrandaplaatide keskel enne remonti.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-lae-viimistlus-38.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Puidutoonis lagi ja süvistatud valgustid duširuumi kohal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-valamu-paigaldus-39.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Ümar valamu puidust plaadil ja plaaditud sein taga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-helesinise-plaatseinaga-40.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Helesinine plaatsein ja rippuv WC-pott valminud vannitoas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-valgete-plaatidega-41.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valge plaaditud vannituba loputuskasti nupu ja riiuliga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-peidetud-segistiga-42.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Beežid suureformaadilised plaadid, nišš ja peidetud segisti duširuumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-ehitus-lineaartrapiga-43.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Hall plaaditud duširuum lineaartrapi ja dušisüsteemiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/saunadusiruumi-ehitus-44.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Puitseintega saunaduširuum kahe dušisegistiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-renoveerimine-valminud-toona-45.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vannitoa uks ja plaaditud sein valminud ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-lammutus-ja-torustik-46.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vannituba lammutusjärgus, seinas torustik ja hüdroisolatsiooniplaadid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/dusiruumi-plaatimine-loppjargus-47.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Tumehall plaatpõrand ja sein duširuumis, paigaldus lõppjärgus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-valamukapi-paigaldus-48.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Valge valamu tumedal kapil ja krohvitud sein taga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vannitoa-sein-enne-plaatimist-49.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Krohvitud sein vannitoas enne plaatimist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vannitoad/vana-vannitoa-lammutus-50.webp</image:loc>
+      <image:title>Vannitoad</image:title>
+      <image:caption>Vana vannituba lammutamisel, seinaplaadid osaliselt maha võetud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-ehitus-ja-murukiviga-sissesoidutee-01.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Hallilaudine eramu koos murukiviga sissesõiduteega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-renoveerimine-elutoa-viimistlusel-02.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Ehitusjärgus elutuba kollaseks viimistletud seina ja suure klaasseinaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-ehitus-ja-murukiviga-plats-03.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Valge laudisega eramu ja selle ees murukividega kaetud plats.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-renoveerimine-tellisseina-avamisel-04.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Vana tellissein ja puittalad renoveerimise käigus avatuna.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/murukivide-paigaldus-eramu-juurde-05.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Murukivide paigaldus eramu kõrvale, kivid osaliselt paigas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/terrassi-kandepostid-ja-murukiviplats-06.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Murukiviga plats eramu sissepääsu ees, püsti terrassi kandepostid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/murukivide-aluspinna-ettevalmistus-07.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Aluspinna ettevalmistus murukivide paigalduseks, liiv tasandatud ja vibroplaat kohal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/drenaazi-ja-killustiku-paigaldus-eramu-juures-08.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Geotekstiil ja killustik aluspinnal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/betoonplaadi-valu-eramu-sissepaasu-ette-09.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Eramu sissepääsu ette valatud betoonplaat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-ehitus-ja-puitterrass-10.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Valge eramu ja selle ees valminud puitterrass.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-ehitus-halli-laudisega-11.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Hallilaudine eramu ja selle ees valminud puitterrass.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/terrassi-aluskonstruktsiooni-ehitus-12.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Terrassilaudade aluskonstruktsioon paigaldamisel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/puitkarkassmaja-ehitus-13.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Puitkarkassiga eramu püstitatud seinte ja katusefermidega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-karkassi-ja-soojustuse-paigaldus-14.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Metallkarkass ja kollane soojustus ehitusjärgus hoonel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/puitkarkassmaja-seinad-vundamendil-15.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Puitkarkassmaja seinad ja katusefermid vundamendil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/puitkarkassi-pustitamine-16.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Puitkarkassi püstitamine.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vundamendiplaat-ja-karkassi-nurk-17.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Valatud vundamendiplaat ja püstitatud karkassi nurk.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/puitkarkassi-seinad-enne-katust-18.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Puitkarkassi seinad ehitusplatsil enne katuse paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vundamendi-armatuur-enne-valu-19.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Vundamendi armatuurvõrk enne valu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vundamendiplaadi-valu-20.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Värskelt valatud vundamendiplaat ja selle kõrval pinnas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vundamendi-armatuur-ja-torustik-21.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Vundamendi armatuur ja torustik enne betoonivalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/kuttetorud-vundamendi-soojustusel-22.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Punased ja sinised küttetorud vundamendi soojustusel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vundamendi-soojustuse-paigaldus-23.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Vundamendi soojustusplaadid paigaldatud ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vundamendi-soojustus-ja-servaprofiil-24.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Vundamendi soojustusplaadid koos servaprofiiliga lähivaates.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/ehitusplatsi-ettevalmistus-25.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Ettevalmistatud ehitusplats enne vundamendi rajamist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/kaablikaitsetorude-paigaldus-kaevikusse-26.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Kaevikusse paigaldatud kollased kaablikaitsetorud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/aluspinna-ettevalmistus-geotekstiiliga-27.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Geotekstiil ja liiv aluspinnal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/pinnasetood-eramu-ehitusplatsil-28.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Kopplaadur pinnasetöödel ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/kaablikaitsetoru-paigaldus-29.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Kollane kaablikaitsetoru kaevikus koos kaabliga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/pinnase-teisaldamine-ehitusplatsil-30.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Pinnase teisaldamine kopplaaduriga ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/ehitusplatsi-margistus-enne-kaevetoid-31.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Ehitusplats vaiadega märgistatud enne kaevetöid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/krunt-enne-eramu-ehitust-32.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Ettevalmistamata krunt enne ehitustööde algust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/eramu-katusekonstruktsioon-seestpoolt-33.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Puitkarkassiga katusekonstruktsioon seestpoolt.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/armatuurvork-raketises-34.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Armatuurvõrk raketises enne betoonivalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/vahelae-raketis-ja-soojustus-35.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Raketis ja kollane soojustus vahelae valuks.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/puittala-paigaldus-plokkmuurile-36.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Plokkmüürile paigaldatud puittala koos ankrutega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/puitfermide-paigaldus-37.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Puitfermid paigaldatud plokkmüürile.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/eramu-ehitus/katusefermide-paigaldus-38.webp</image:loc>
+      <image:title>Eramu ehitus ja renoveerimine</image:title>
+      <image:caption>Katusefermid hoone kohal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/krohvitud-sisesein-enne-viimistlust-01.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Krohvitud sisesein enne viimistlust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kivisillutise-paigaldus-hoone-ette-02.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Suurte klaasakendega hoone välisilme, ees värskelt paigaldatud kivisillutis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/seinaplaatide-paigaldus-kuusnurksete-plaatidega-03.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Piklikud kuusnurksed seinaplaadid beežides ja hallides toonides.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/graniidist-valistrepp-ja-kivisillutis-04.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Graniidist välistrepp ja selle kõrval kivisillutis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/letiesise-plaatimine-05.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Kaarjas letiesine plaatimisel valgete piklike plaatidega, all näha hüdroisolatsioon.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kivisillutise-paigaldus-klaasseina-ette-06.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Klaasseinaga hoone välisilme, ees kivisillutis ja armatuurivardad.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/seinaplaatide-paigaldus-siseruumis-07.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Piklike kuusnurksete plaatidega kaetud sein siseruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/lavepaku-ja-profiili-paigaldus-08.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Ukseava lävepaku ja profiili paigaldus betoonpõrandal, väljas kivisillutis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kaarja-siseseina-krohvimine-09.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Kaarjas sisesein ehitusjärgus, pind krohvitud ja ootab viimistlust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kivisillutise-paigaldus-10.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Kivisillutis hoone ees, keskel tume kattega ala.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/letiesise-plaatimine-kuusnurksete-plaatidega-11.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Kaarjas letiesine kaetud piklike kuusnurksete plaatidega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/sissepaasuala-plaatimine-12.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Tume plaaditud sissepääsuala ja selle ümber kivisillutis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kaarja-seinakonstruktsiooni-ehitus-13.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Kaarjas seinakonstruktsioon ehitusjärgus ruumis, põrandal märgistus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/tapeedi-paigaldus-siseseinale-14.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Mustriline tapeet paigaldamisel siseseinale.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/seinaplaatide-paigaldus-ja-elektritood-15.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Rohelise plaadiga sein ja kollase teibiga märgistatud elektripaigaldus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/lohutud-kiviga-sein-ja-kalasabaplaat-16.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Tumeda lõhutud kiviga sein ja valge kalasabaplaat kõrvuti.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/suureformaadiliste-seinaplaatide-paigaldus-17.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Suureformaadiline hall plaat seinal ja tume tellissein taga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/puitplokkidest-dekoratiivsein-18.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Puitplokkidest laotud dekoratiivsein ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kaminaumbrise-viimistlus-elutoas-19.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Valge kaminaümbris ja puitparkett valminud elutoas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/siseviimistlus/kaminaumbris-valminud-ruumis-20.webp</image:loc>
+      <image:title>Siseviimistlus ja plaatimine</image:title>
+      <image:caption>Kaminaümbris ja sile valge sein valminud ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonitorustiku-kaeviku-ettevalmistus-01.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Geotekstiiliga kaetud kaevik enne torustiku paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonimahuti-paigaldus-02.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Oranž kanalisatsioonimahuti paigaldatud kaevikusse.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonitoru-paigaldus-kaevikusse-03.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Kanalisatsioonitoru kaevikus, servad kaetud geotekstiiliga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonimahuti-paigaldus-ja-pinnase-tihendamine-04.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Kanalisatsioonimahuti kaevikus, kõrval pinnase tihendamiseks vibroplaat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonitoru-paigaldus-05.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Oranž kanalisatsioonitoru paigaldatud kaevikusse.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonimahuti-paigaldusvalmis-06.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Oranž mahuti rihmadega paigaldusvalmis, all liivapadi.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/imbvaljaku-ehitus-07.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Geotekstiiliga vooderdatud kaevik imbväljaku jaoks.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonitorude-paigaldus-killustikku-08.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Killustikuga täidetud kaevik ja selle servades kanalisatsioonitorud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kaeviku-killustikpadi-ja-soojustus-09.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Killustikpadi ja soojustusplaadid kaevikus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/vundamendi-soojustuse-paigaldus-liivapadjale-10.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Vundamendi soojustusplaadid ja servaprofiil paigaldatud liivapadjale.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/veetorustiku-uhendus-ja-sulgeventiil-11.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Veetorustiku ühendus ja sulgeventiil kaevikus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/torustiku-vahetus-porandaava-kaudu-12.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Avatud põrandaava torustiku vahetuseks, all seisev vesi.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsiooni-pustiku-paigaldus-13.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Kanalisatsioonitorud püstiku jaoks liivases aluspõrandas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/dusiruumi-lineaartrapp-valminud-toona-14.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Beežide plaatidega duširuum ja lineaartrapp valminud tööna.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/sooja-vee-boileri-ja-torustiku-paigaldus-15.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Sooja vee boiler ja torustik puitseintega tehnoruumis, põrand avatud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/torustiku-paigaldus-puitporanda-alla-16.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Avatud puitpõrand torustiku paigalduseks, all must isolatsioon.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/boileri-ja-torustiku-paigaldus-vannitoas-17.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Boiler ja torustik vanni kõrval puitseintega ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/vesi-ja-kanalisatsioon/kanalisatsioonitorude-paigaldus-poranda-alla-18.webp</image:loc>
+      <image:title>Vesi ja kanalisatsioon</image:title>
+      <image:caption>Põrandalaudade alla paigaldatud kanalisatsioonitorud ja killustik.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/veetorustiku-paigaldus-seina-01.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Punased ja sinised veetorud paigaldatud seina enne kinnikatmist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/loputuskastide-ja-veetorude-paigaldus-02.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Peidetud loputuskastide raamid ja veetorud kipsseina taga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/sooja-vee-boileri-ja-jaotuskollektori-paigaldus-03.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Sooja vee boiler ja siniste torudega jaotuskollektor tehnoruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-paigaldus-enne-porandavalu-04.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik paigaldatud ruumides enne põrandavalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-torustiku-paigaldus-05.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik ruumide vahel enne tasandusvalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-jaotuskollektori-paigaldus-06.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte jaotuskollektor tehnoruumi seinal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-paigaldus-vundamendi-soojustusele-07.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik paigaldatud eramu vundamendi soojustusele.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-paigaldus-enne-betoonivalu-08.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Vundamendile paigaldatud põrandakütte torustik enne betoonivalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-torustik-ja-soojustus-vundamendil-09.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik ja soojustus vundamendil enne valu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/kuttekollektori-paigaldus-manomeetriga-10.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Messingist küttekollektor manomeetri ja torude ühendustega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-kollektorikapp-11.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte kollektorikapp ehitusplatsil enne paigaldust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-jaotuskollektor-sulgeventiilidega-12.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte jaotuskollektor kapis koos sulgeventiilidega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/veetorude-paigaldus-labi-seina-13.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Punased ja sinised veetorud tulemas läbi seina, kõrval puitraam.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/vee-ja-kuttetorude-paigaldus-vundamendile-14.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Vee- ja küttetorud paigaldatud soojustatud vundamendile.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/kuttetorude-paigaldus-enne-tasandusvalu-15.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Punased ja sinised torud betoonpõrandal enne tasandusvalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-paigaldus-alumiiniumsoojustusele-16.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik alumiiniumkattega soojustusel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-torustik-ja-kollektor-17.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik ja jaotuskollektor ruumis enne valu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-torustiku-paigaldus-soojustusele-18.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik kaarena alumiiniumsoojustusel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-torustik-soojustusplaatidel-19.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Tihedalt paigaldatud põrandakütte torustik soojustusplaatidel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/paisupaagi-ja-kuttekollektori-paigaldus-20.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Punane paisupaak ja küttekollektor puitseinal tehnoruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/veetorude-ja-ventiilide-paigaldus-21.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Sinised veetorud ja ventiilid tehnoruumi seinal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/veefiltrite-ja-jaotuskollektori-paigaldus-22.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Veefiltrid ja jaotuskollektor kipsseinal paigaldatuna.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/torustiku-paigaldus-betoonseinale-23.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Torustik betoonseinal enne ruumi viimistlust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/porandakutte-paigaldus-vundamendile-24.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Põrandakütte torustik vundamendil, ümber puitraketis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/paisupaagi-ja-veetorustiku-paigaldus-25.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Paisupaak ja veetorustik puitseintega tehnoruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/kuttesusteemi-kollektori-paigaldus-26.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Küttesüsteemi kollektor, paisupaak ja filtrid tehnoruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/kuttesusteemi-solme-paigaldus-27.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Küttesüsteemi sõlm koos manomeetrite ja filtritega seinal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/veefiltrite-ja-jaotustorustiku-paigaldus-28.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Veefiltrid ja jaotustorustik plokkseinal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/tehnoruumi-torustiku-paigaldus-29.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Kitsas tehnoruum torustiku ja seadmetega, põrandas ava.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/kute-ja-ventilatsioon/kuttesusteemi-torustiku-paigaldus-30.webp</image:loc>
+      <image:title>Küte ja ventilatsioon</image:title>
+      <image:caption>Torustik ja seadmed viimistlemata seina ees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/puittood/terrassi-ehitus-metallpiirdega-01.webp</image:loc>
+      <image:title>Terrassid ja varjualused</image:title>
+      <image:caption>Puitterrass metallpiirdega ja puidust trepp eramu küljel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/puittood/varjualuse-ehitus-eramu-sissepaasu-ette-02.webp</image:loc>
+      <image:title>Terrassid ja varjualused</image:title>
+      <image:caption>Musta karkassiga varjualune eramu sissepääsu ees talvel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/puittood/terrassi-ehitus-tumeda-puiduga-03.webp</image:loc>
+      <image:title>Terrassid ja varjualused</image:title>
+      <image:caption>Tumedaks viimistletud puitterrass eramu ukse ees talvisel ajal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/puittood/terrassi-ribisirmi-ehitus-04.webp</image:loc>
+      <image:title>Terrassid ja varjualused</image:title>
+      <image:caption>Tumedatest laudadest ribisirm eramu terrassi varjeks.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-valu-01.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Värskelt valatud betoonpõrand hoone sees enne viimistlust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendimuuri-ladumine-02.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendiplokkidest müür kaevikus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-soojustuse-paigaldus-enne-valu-03.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendisoojustus paigaldatud ja märgistatud enne betoonivalu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/ehitusaia-paigaldus-04.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Sinine ehitusaed vana tellishoone ees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-killustikpadi-ja-servaprofiil-05.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Killustikpadi ja vundamendi servaprofiil enne valu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/sillutuskivide-paigaldus-06.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Sillutuskivide paigaldus maja kõrval.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-valu-ja-silumine-07.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Silutud betoonpõrand siseruumis kohe pärast valu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendimuuri-ehitus-plokkidest-08.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Plokkidest vundamendimüür ja selle ümber killustik.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-soojustus-ja-armatuur-09.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendi soojustus ja armatuurivõrgu märgistus ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/aia-ehitus-ja-tanavakivi-10.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Puidust aed ja selle ees tume kattega plats.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonplaadi-valu-maja-ette-11.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Betoonplaat valatud maja ette.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonkivisillutise-paigaldus-12.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Suureformaadiline hall betoonkivisillutis paigaldatud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-lihvimine-13.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Betoonpõrand siseruumis pärast lihvimist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendiplokkide-paigaldus-14.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendiplokkide paigaldus kaevikusse.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonvalu-raketise-ettevalmistus-15.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Betoonvalu raketise ettevalmistus öisel ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/killustikuga-platsi-rajamine-16.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Killustikuga kaetud plats vana tellishoone ees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/aluspinna-ettevalmistus-geotekstiiliga-17.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Geotekstiil ja killustik aluspinna ettevalmistusel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-varvimine-18.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Värvitud betoonpõrand ja sein siseruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/torustiku-ja-kaablikaitse-paigaldus-kaevikusse-19.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Torustik ja kaablikaitse kaevikus kivise pinnase sees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/puitkonstruktsiooni-ehitus-betoonalusel-20.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Puitkonstruktsioon betoonalusel öisel ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/ehitusplatsi-margistus-21.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Ehitusplats postidega märgistatud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/geomembraani-paigaldus-aluspinnale-22.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Must geomembraan laotatud liivasele aluspinnale.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporand-siseruumis-23.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Kaetud betoonpõrand siseruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-servaprofiili-paigaldus-24.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendi servaprofiil ja soojustus kaevikus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/puitkonstruktsiooni-ehitus-25.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Puitkonstruktsioon ümmargusel alusel ehitusjärgus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonelementide-ladustamine-ehitusplatsil-26.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Virnastatud betoonelemendid ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-valu-porandatrapiga-27.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Silutud betoonpõrand siseruumis koos põrandatrapiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/torustiku-ja-soojustuse-paigaldus-vundamendi-juures-28.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Torustik ja soojustus kaevikus vundamendi kõrval.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/killustikuga-platsi-rajamine-aia-juurde-29.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Killustikuga plats vana hoone ja puitaia vahel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-soojustusplaadi-paigaldus-30.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendi soojustusplaat ja servaprofiil sügiseses pinnases.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendivormi-paigaldus-31.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendivorm paigaldatud liivasele alusele.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-soojustusplaatide-ladustamine-32.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Virnastatud soojustusplaadid kollase servaga ehitusplatsil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-valu-siseruumis-33.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Värskelt valatud betoonpõrand siseruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendimuuri-ladumine-plokkidest-34.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Plokkidest vundamendimüür ja selle kõrval pinnas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/kaeviku-killustik-ja-servakivi-35.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Kaevik killustikuga ja betoonist servakiviga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendivormi-paigaldus-enne-valu-36.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendivorm liivasel alusel enne valu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-lihvimine-siseruumis-37.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Sile betoonpõrand pärast lihvimist.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/lihvitud-betoonporand-38.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Läikiv lihvitud betoonpõrand ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonporanda-deformatsioonivuugid-39.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Betoonpõrand deformatsioonivuukidega suures ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/lihvitud-betoonporand-suures-ruumis-40.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Lihvitud betoonpõrand suures ruumis.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/betoonist-valistrepi-ehitus-41.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Betoonist välistrepp maja sissepääsu ees.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/valistrepi-hudroisolatsioon-42.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Välistrepi hüdroisolatsioon ja märgistus enne viimistlust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-raketis-ja-soojustus-43.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendi raketis ja soojustus valu ootel.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendiplaadi-valu-ankrutega-44.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Värskelt valatud vundamendiplaat koos ankrutega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/geomembraani-ja-raketise-paigaldus-45.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Must geomembraan ja raketis vundamendiplaadi all.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendi-raketise-paigaldus-46.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Vundamendi raketise paigaldus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendiala-killustikuga-taitmine-47.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Killustikuga täidetud vundamendiala ja tellingud.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/metalltugede-paigaldus-seina-aarde-48.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Metalltoed ja killustik hoone seina ääres.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/killustiku-tasandamine-vundamendi-jaoks-49.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Killustiku tasandamine kollase latiga vundamendi jaoks.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.meryton.ee/pildid/galerii/valitood/vundamendiplaadi-valu-50.webp</image:loc>
+      <image:title>Välitööd ja vundament</image:title>
+      <image:caption>Valatud vundamendiplaat rohelisel krundil.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meryton.ee/kontakt</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.meryton.ee/privaatsus</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.2</priority>
+  </url>
+</urlset>

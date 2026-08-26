@@ -1,0 +1,16 @@
+# Saladused
+.env
+.env.*
+.dev.vars
+
+# Sõltuvused
+node_modules/
+
+# Cloudflare
+.wrangler/
+
+# Lähtematerjal: toorfotod ja kliendi failid ei kuulu hoidlasse
+pildid/toorpildid/
+
+# macOS
+.DS_Store

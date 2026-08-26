@@ -1,0 +1,21 @@
+# Cloudflare turvapäised ja vahemälu. Töötavad Workeri assetsi all.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; form-action 'self'; frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests
+
+/fondid/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pildid/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Eelvaate aadress ei tohi otsingusse jõuda, muidu indekseerib Google
+# sama sisu kaks korda. Kontrolli, kas projekt on workers.dev või pages.dev
+# aadressil, ja jäta alles ainult õige rida.
+https://meryton.*.workers.dev/*
+  X-Robots-Tag: noindex

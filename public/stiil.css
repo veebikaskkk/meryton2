@@ -1,0 +1,1958 @@
+/* ==========================================================================
+   MERYTON GROUP OÜ
+   Ühine stiilileht kõigile lehtedele.
+   Värvid on tuletatud logost: süsimust taust, kuld õhukese aktsendina.
+   Kujunduslik eripära: ehitusjoonise mõõtjoon jaotiste pealkirjade ees.
+   ========================================================================== */
+
+/* --- Kirjatüübid, majutatud koos lehega ---------------------------------- */
+
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url('fondid/sora-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+    U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+    U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url('fondid/sora-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url('fondid/manrope-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+    U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+    U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url('fondid/manrope-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* --- Muutujad ------------------------------------------------------------ */
+
+:root {
+  --must: #0b0b0c;
+  --must-2: #0f0f11;
+  --pind: #141417;
+  --pind-2: #1b1b20;
+  --serv: rgba(255, 255, 255, 0.09);
+  --serv-tugev: rgba(255, 255, 255, 0.16);
+  --serv-kuld: rgba(201, 162, 39, 0.38);
+
+  --valge: #f2f1ed;
+  --hall: #a5a49e;
+  --hall-tume: #75746f;
+
+  --kuld: #c9a227;
+  --kuld-hele: #e3c365;
+
+  --pais-korgus: 92px;
+  --kest: 1200px;
+  --raadius: 2px;
+
+  --pealkiri: 'Sora', 'Segoe UI', system-ui, sans-serif;
+  --tekst: 'Manrope', 'Segoe UI', system-ui, sans-serif;
+
+  --v1: 0.5rem;
+  --v2: 1rem;
+  --v3: 1.5rem;
+  --v4: 2.5rem;
+  --v5: 4rem;
+  --v6: 6rem;
+}
+
+/* --- Lähtestus ----------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 108px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--must);
+  color: var(--valge);
+  font-family: var(--tekst);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  font-weight: 400;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* hidden peab võitma ka nende elementide puhul, millele on antud display */
+[hidden] {
+  display: none !important;
+}
+
+a {
+  color: var(--kuld-hele);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: var(--valge);
+}
+
+:focus-visible {
+  outline: 2px solid var(--kuld-hele);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--pealkiri);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin: 0 0 var(--v2);
+  text-wrap: balance;
+  /* eesti liitsõnad on pikad, näiteks ventilatsioonisüsteemide */
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+h1 {
+  font-size: clamp(2.1rem, 5.4vw, 3.9rem);
+}
+
+h2 {
+  font-size: clamp(1.7rem, 3.6vw, 2.6rem);
+}
+
+h3 {
+  font-size: clamp(1.15rem, 2vw, 1.4rem);
+}
+
+p {
+  margin: 0 0 var(--v2);
+  max-width: 68ch;
+}
+
+ul {
+  padding-left: 1.1rem;
+}
+
+/* --- Paigutus ------------------------------------------------------------ */
+
+.kest {
+  width: 100%;
+  max-width: var(--kest);
+  margin: 0 auto;
+  padding: 0 clamp(1.15rem, 4vw, 2.5rem);
+}
+
+.sektsioon {
+  padding: clamp(3.5rem, 8vw, var(--v6)) 0;
+  border-top: 1px solid var(--serv);
+}
+
+.sektsioon--esimene {
+  border-top: 0;
+}
+
+.sektsioon--pind {
+  background: var(--must-2);
+}
+
+.jaotis-pais {
+  margin-bottom: clamp(2rem, 4vw, 3.25rem);
+}
+
+.jaotis-pais p {
+  color: var(--hall);
+  margin-bottom: 0;
+}
+
+/* Mõõtjoon: number, õhuke kuldne joon otstes püsttikkudega, silt */
+.moot {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: var(--v3);
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--kuld-hele);
+}
+
+.moot::before {
+  content: '';
+  width: clamp(40px, 8vw, 92px);
+  height: 7px;
+  flex: none;
+  border-left: 1px solid var(--serv-kuld);
+  border-right: 1px solid var(--serv-kuld);
+  background: linear-gradient(var(--serv-kuld), var(--serv-kuld)) center / 100% 1px no-repeat;
+}
+
+.moot span {
+  color: var(--hall);
+}
+
+/* --- Nupud --------------------------------------------------------------- */
+
+.nupp {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  min-height: 48px;
+  padding: 0.75rem 1.6rem;
+  border: 1px solid transparent;
+  border-radius: var(--raadius);
+  font-family: var(--pealkiri);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.nupp--kuld {
+  background: var(--kuld);
+  color: var(--must);
+}
+
+.nupp--kuld:hover {
+  background: var(--kuld-hele);
+  color: var(--must);
+}
+
+.nupp--joon {
+  border-color: var(--serv-tugev);
+  color: var(--valge);
+  background: transparent;
+}
+
+.nupp--joon:hover {
+  border-color: var(--kuld);
+  color: var(--kuld-hele);
+}
+
+.nupp--vaikne {
+  padding: 0.6rem 1.2rem;
+  border-color: var(--serv);
+  color: var(--valge);
+  background: transparent;
+}
+
+.nupp--vaikne:hover {
+  border-color: var(--kuld);
+  color: var(--kuld-hele);
+}
+
+.nupu-rida {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--v2);
+  margin-top: var(--v3);
+}
+
+/* --- Päis ---------------------------------------------------------------- */
+
+.jata-vahele {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  padding: 0.75rem 1.25rem;
+  background: var(--kuld);
+  color: var(--must);
+  z-index: 100;
+}
+
+.jata-vahele:focus {
+  left: 1rem;
+  top: 1rem;
+}
+
+.pais {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(11, 11, 12, 0.92);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--serv);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Avalehel istub päis pildi peal, kuni lehte pole veel keritud.
+   Klassi eemaldab skript.js niipea, kui keritakse allapoole. */
+.pais--hoiv {
+  background: transparent;
+  backdrop-filter: none;
+  border-bottom-color: transparent;
+}
+
+.pais--hoiv .pais__logo img {
+  height: 76px;
+}
+
+.pais__sisu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--v2);
+  min-height: var(--pais-korgus);
+}
+
+.pais__logo {
+  display: block;
+  flex: none;
+  line-height: 0;
+}
+
+.pais__logo img {
+  width: auto;
+  height: 68px;
+}
+
+.pais__nav {
+  display: flex;
+  align-items: center;
+  gap: clamp(1rem, 2.2vw, 2rem);
+}
+
+.pais__nav ul {
+  display: flex;
+  align-items: center;
+  gap: clamp(1rem, 2.2vw, 2rem);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pais__nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--valge);
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.pais__nav a:hover,
+.pais__nav a[aria-current='page'] {
+  color: var(--kuld-hele);
+}
+
+.pais__nav a[aria-current='page'] {
+  box-shadow: inset 0 -1px 0 var(--kuld);
+}
+
+.menuu-nupp {
+  display: none;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 1px solid var(--serv-tugev);
+  border-radius: var(--raadius);
+  background: transparent;
+  color: var(--valge);
+  cursor: pointer;
+}
+
+.menuu-nupp span,
+.menuu-nupp span::before,
+.menuu-nupp span::after {
+  display: block;
+  width: 20px;
+  height: 1px;
+  background: currentColor;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.menuu-nupp span {
+  margin: 0 auto;
+  position: relative;
+}
+
+.menuu-nupp span::before,
+.menuu-nupp span::after {
+  content: '';
+  position: absolute;
+  left: 0;
+}
+
+.menuu-nupp span::before {
+  top: -6px;
+}
+
+.menuu-nupp span::after {
+  top: 6px;
+}
+
+.menuu-nupp[aria-expanded='true'] span {
+  background: transparent;
+}
+
+.menuu-nupp[aria-expanded='true'] span::before {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.menuu-nupp[aria-expanded='true'] span::after {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+/* --- Hero: avalehe päis, terve ekraan ainult päist ----------------------- */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+  min-height: 100svh;
+  margin-top: calc(var(--pais-korgus) * -1);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: calc(var(--pais-korgus) + var(--v5)) 0 0;
+  background: var(--must);
+}
+
+.hero__foon {
+  position: absolute;
+  inset: 0;
+  background: url('pildid/pais/vundamendi-porandakute-pais.jpg') center 62% / cover no-repeat;
+  filter: saturate(0.72) contrast(1.06) brightness(0.92);
+}
+
+.hero__vari {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg,
+      rgba(11, 11, 12, 0.88) 0%,
+      rgba(11, 11, 12, 0.25) 32%,
+      rgba(11, 11, 12, 0.55) 62%,
+      rgba(11, 11, 12, 0.96) 100%),
+    linear-gradient(90deg, rgba(11, 11, 12, 0.8) 0%, rgba(11, 11, 12, 0.1) 55%);
+}
+
+.hero__sisu {
+  position: relative;
+  z-index: 2;
+  padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+}
+
+/* Kuldne mõõtjoon ja maakondade rida pealkirja kohal */
+.hero__silt {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin: 0 0 var(--v3);
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--kuld);
+}
+
+.hero__silt::before {
+  content: '';
+  width: clamp(30px, 5vw, 44px);
+  height: 1px;
+  flex: none;
+  background: var(--kuld);
+  opacity: 0.75;
+}
+
+.hero h1 {
+  max-width: 30ch;
+  font-weight: 700;
+  font-size: clamp(2.1rem, 5vw, 3.4rem);
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.55);
+}
+
+.hero h1 em {
+  display: block;
+  font-style: normal;
+  color: var(--kuld-hele);
+}
+
+.hero__jutt {
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  color: rgba(242, 241, 237, 0.82);
+  max-width: 60ch;
+}
+
+/* Faktiriba päise all servast servani */
+.hero__rada {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--serv);
+  background: rgba(11, 11, 12, 0.72);
+  backdrop-filter: blur(6px);
+}
+
+.hero__rada li {
+  flex: 1;
+  padding: var(--v2) clamp(1.15rem, 4vw, 2.5rem) var(--v3);
+}
+
+.hero__rada li + li {
+  border-left: 1px solid var(--serv);
+}
+
+.hero__rada strong {
+  display: block;
+  font-family: var(--pealkiri);
+  font-size: clamp(1.05rem, 1.9vw, 1.25rem);
+  font-weight: 600;
+  color: var(--valge);
+  letter-spacing: -0.01em;
+}
+
+.hero__rada span {
+  display: block;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  color: var(--hall);
+}
+
+/* --- Teenusekastid: ainult nimi ja viide -------------------------------- */
+
+.jaotis-pais--rida {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--v3);
+  flex-wrap: wrap;
+}
+
+.jaotis-pais--rida h2 {
+  margin-bottom: 0;
+}
+
+.jaotis-viide {
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--hall);
+  white-space: nowrap;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--serv);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.jaotis-viide:hover {
+  color: var(--kuld-hele);
+  border-bottom-color: var(--kuld);
+}
+
+/* juuksekarva peenike võrgustik: taust paistab 1 px vahedest läbi */
+.kastid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--serv);
+  border: 1px solid var(--serv);
+}
+
+.kast {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--v4);
+  min-height: 186px;
+  padding: var(--v3) var(--v3) var(--v2);
+  background: var(--must);
+  text-decoration: none;
+  transition: background-color 0.25s ease;
+}
+
+.kast::after {
+  content: '';
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 1px;
+  background: var(--kuld);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.kast:hover,
+.kast:focus-visible {
+  background: var(--pind);
+}
+
+.kast:hover::after,
+.kast:focus-visible::after {
+  transform: scaleX(1);
+}
+
+.kast h3 {
+  max-width: 14ch;
+  margin: 0;
+  color: var(--valge);
+  transition: color 0.25s ease;
+}
+
+.kast:hover h3,
+.kast:focus-visible h3 {
+  color: var(--kuld-hele);
+}
+
+.kast__viide {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--hall);
+  transition: color 0.25s ease;
+}
+
+.kast:hover .kast__viide,
+.kast:focus-visible .kast__viide {
+  color: var(--kuld);
+}
+
+.nool {
+  position: relative;
+  width: 22px;
+  height: 1px;
+  background: currentColor;
+  transition: width 0.25s ease;
+}
+
+.nool::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -3px;
+  width: 7px;
+  height: 7px;
+  border-top: 1px solid currentColor;
+  border-right: 1px solid currentColor;
+  transform: rotate(45deg);
+}
+
+.kast:hover .nool,
+.kast:focus-visible .nool {
+  width: 32px;
+}
+
+/* --- Alltöövõtu referentsid --------------------------------------------- */
+
+.refid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: var(--serv);
+  border: 1px solid var(--serv);
+}
+
+.refid li {
+  background: var(--must-2);
+  padding: var(--v2) var(--v2) var(--v3);
+}
+
+.refid strong {
+  display: block;
+  font-family: var(--pealkiri);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--valge);
+}
+
+.refid span {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  color: var(--hall-tume);
+}
+
+/* --- Kontaktiplokk ------------------------------------------------------- */
+
+.kontakt-plokk {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: var(--v4);
+  align-items: center;
+  padding: clamp(1.75rem, 4vw, 2.75rem);
+  border: 1px solid var(--serv-kuld);
+  background:
+    radial-gradient(120% 180% at 0% 0%, rgba(201, 162, 39, 0.09) 0%, transparent 58%),
+    var(--must-2);
+}
+
+.kontakt-plokk h2 {
+  margin-bottom: var(--v1);
+}
+
+.kontakt-plokk p:last-child {
+  margin-bottom: 0;
+  color: var(--hall);
+  max-width: 54ch;
+}
+
+.kontakt-plokk__pool {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--v2);
+}
+
+.kontakt-plokk__tel {
+  font-family: var(--pealkiri);
+  font-size: clamp(1.3rem, 2.4vw, 1.65rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  color: var(--valge);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  transition: color 0.2s ease;
+}
+
+.kontakt-plokk__tel:hover {
+  color: var(--kuld-hele);
+}
+
+.kontakt-plokk__meil {
+  font-size: 0.9rem;
+  color: var(--hall);
+  text-decoration: none;
+  border-bottom: 1px solid var(--serv);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.kontakt-plokk__meil:hover {
+  color: var(--kuld-hele);
+  border-bottom-color: var(--kuld);
+}
+
+/* --- Ruudustikud --------------------------------------------------------- */
+
+.ruudustik {
+  display: grid;
+  gap: 1px;
+  background: var(--serv);
+  border: 1px solid var(--serv);
+}
+
+.ruudustik--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.ruudustik--2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.kaart {
+  background: var(--must);
+  padding: clamp(1.5rem, 3vw, 2.25rem);
+  transition: background-color 0.25s ease;
+}
+
+.kaart:hover {
+  background: var(--pind);
+}
+
+.kaart__nr {
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  color: var(--kuld);
+}
+
+.kaart h3 {
+  margin: var(--v2) 0 0.6rem;
+}
+
+.kaart p {
+  color: var(--hall);
+  font-size: 0.98rem;
+  margin-bottom: 0;
+}
+
+.kaart__link {
+  display: inline-block;
+  margin-top: var(--v2);
+  font-size: 0.9rem;
+  color: var(--kuld-hele);
+  text-decoration: none;
+  border-bottom: 1px solid var(--serv-kuld);
+  padding-bottom: 2px;
+}
+
+.kaart__link:hover {
+  color: var(--valge);
+  border-color: var(--valge);
+}
+
+/* --- Teenuste pikk vaade ------------------------------------------------- */
+
+.teenus {
+  padding: clamp(2.25rem, 5vw, 3.5rem) 0;
+  border-top: 1px solid var(--serv);
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(1.5rem, 4vw, 3.5rem);
+  align-items: start;
+}
+
+.teenus:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
+/* Teenuse pealkiri on kitsas veerus ja mõni liitsõna on väga pikk,
+   näiteks ventilatsioonisüsteemide, seega siin väiksem aste. */
+.teenus h2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.95rem);
+}
+
+.teenus__nr {
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  color: var(--kuld);
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+.teenus p:last-child {
+  margin-bottom: 0;
+}
+
+.teenus ul {
+  color: var(--hall);
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.teenus li {
+  margin-bottom: 0.35rem;
+}
+
+/* --- Usaldus ja sertifikaat ---------------------------------------------- */
+
+.usaldus {
+  display: grid;
+  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  gap: clamp(2rem, 5vw, 4rem);
+  align-items: center;
+}
+
+.sert-kaart {
+  display: flex;
+  align-items: center;
+  gap: var(--v3);
+  padding: clamp(1.25rem, 3vw, 1.75rem);
+  background: var(--pind);
+  border: 1px solid var(--serv);
+  border-radius: var(--raadius);
+}
+
+.sert-kaart img {
+  width: 116px;
+  height: 116px;
+  flex: none;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.sert-kaart h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.35rem;
+}
+
+.sert-kaart p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--hall);
+}
+
+/* --- Referentsid --------------------------------------------------------- */
+
+.viited {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--v1) 0.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.viited li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.55rem 1.1rem 0.55rem 0.9rem;
+  border: 1px solid var(--serv-kuld);
+  border-radius: 999px;
+  background: var(--pind);
+  font-size: 0.95rem;
+  color: var(--valge);
+}
+
+/* Kuldne täpp objekti nime ees, et loetelu ei kaoks tausta sisse */
+.viited li::before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  flex: none;
+  border-radius: 50%;
+  background: var(--kuld);
+}
+
+.viited--lingid li::before {
+  display: none;
+}
+
+.viited--lingid li {
+  padding: 0;
+  transition: border-color 0.2s ease;
+}
+
+.viited--lingid li:hover {
+  border-color: var(--kuld);
+}
+
+.viited--lingid a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.3rem 1.1rem;
+  color: var(--valge);
+  text-decoration: none;
+}
+
+.viited--lingid a:hover {
+  color: var(--kuld-hele);
+}
+
+/* --- Avalehe kategooriakastid -------------------------------------------- */
+
+.lint {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(0.6rem, 1.4vw, 1rem);
+  list-style: none;
+  margin: 0 0 var(--v3);
+  padding: 0;
+}
+
+.lint__kast {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--raadius);
+  background: var(--pind);
+  text-decoration: none;
+}
+
+.lint__pilt {
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.lint__kast img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  transition: opacity 0.45s ease, transform 0.5s ease;
+}
+
+.lint__kast:hover img,
+.lint__kast:focus-visible img {
+  transform: scale(1.04);
+}
+
+.lint__kast img[data-vahetub] {
+  opacity: 0;
+}
+
+.lint__silt {
+  position: absolute;
+  inset: auto 0 0;
+  padding: 2.25rem 0.9rem 0.8rem;
+  background: linear-gradient(to top, rgba(6, 6, 7, 0.93) 32%, transparent);
+  color: var(--valge);
+  font-family: var(--pealkiri);
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.25;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.lint__arv {
+  font-size: 0.72rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  color: var(--kuld-hele);
+}
+
+@media (max-width: 1024px) {
+  .lint {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .lint {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Telefonis kattis silt pildi alumist osa, seega läheb ta pildi alla */
+@media (max-width: 520px) {
+  .lint__kast {
+    background: var(--pind);
+  }
+
+  .lint__silt {
+    position: static;
+    padding: 0.55rem 0.7rem 0.7rem;
+    background: none;
+    font-size: 0.82rem;
+  }
+}
+
+@media (max-width: 340px) {
+  .lint {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lint__kast img {
+    transition: none;
+  }
+
+  .lint__kast:hover img,
+  .lint__kast:focus-visible img {
+    transform: none;
+  }
+}
+
+/* --- Galerii ------------------------------------------------------------- */
+
+.kategooria {
+  padding: clamp(2rem, 5vw, 3.25rem) 0;
+  border-top: 1px solid var(--serv);
+}
+
+.kategooria:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.kategooria__pais {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--v2);
+  margin-bottom: var(--v3);
+}
+
+.kategooria__pais h2,
+.kategooria__pais h3 {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.6vw, 1.9rem);
+}
+
+.kategooria > p {
+  color: var(--hall);
+  margin-bottom: var(--v3);
+}
+
+.kategooria__arv {
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--hall);
+}
+
+.pildid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: clamp(0.5rem, 1.4vw, 1rem);
+}
+
+.pilt {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--pind);
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: var(--raadius);
+}
+
+.pilt img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease, opacity 0.3s ease;
+}
+
+.pilt:hover img {
+  transform: scale(1.04);
+}
+
+.pilt[hidden] {
+  display: none;
+}
+
+/* Kui suurendus on välja lülitatud, ei tohi pilt klõpsatavat muljet jätta */
+.pilt--vaikne {
+  cursor: default;
+}
+
+/* Pildi kirjeldus. See on lehel päriselt olemas, mitte peidetud, sest
+   Google Images kasutab pildi ümber olevat teksti. Ekraanil tuleb see
+   nähtavale hiire alla või klaviatuuriga liikudes, et 260 kirjeldust ei
+   muudaks galeriid tekstiseinaks. */
+.pilt__tekst {
+  position: absolute;
+  inset: auto 0 0;
+  margin: 0;
+  padding: 2rem 0.75rem 0.7rem;
+  background: linear-gradient(to top, rgba(6, 6, 7, 0.94) 30%, transparent);
+  color: var(--valge);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  text-align: left;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  pointer-events: none;
+}
+
+.pilt:hover .pilt__tekst,
+.pilt:focus-visible .pilt__tekst {
+  opacity: 1;
+  transform: none;
+}
+
+/* Puuteekraanil ei ole hiire alla minekut. Kirjeldus kattis väikesel
+   ekraanil poole pildist, seega tuleb see nüüd pildile vajutades. */
+.pilt[data-tekst='jah'] .pilt__tekst {
+  opacity: 1;
+  transform: none;
+}
+
+@media (hover: none) {
+  .pilt--vaikne {
+    cursor: pointer;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pilt__tekst {
+    transition: none;
+    transform: none;
+  }
+}
+
+/* Kohatäide puuduva foto asemel: triibustik ja failinimi */
+.pilt--tyhi {
+  cursor: default;
+  display: flex;
+  align-items: flex-end;
+  padding: 0.75rem;
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.045) 0 8px,
+    transparent 8px 16px
+  );
+  border: 1px dashed var(--serv-tugev);
+}
+
+.pilt--tyhi span {
+  font-family: var(--pealkiri);
+  font-size: 0.68rem;
+  line-height: 1.4;
+  color: var(--hall);
+  word-break: break-all;
+}
+
+.veel {
+  margin-top: var(--v3);
+}
+
+/* --- Suurendus ----------------------------------------------------------- */
+
+.suurendus {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  display: none;
+  padding: clamp(0.75rem, 3vw, 2rem);
+  background: rgba(6, 6, 7, 0.975);
+  overflow-y: auto;
+}
+
+.suurendus[open] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Kogu sisu on tavavoos, mitte absoluutselt paigutatud, sest kerivas
+   konteineris absoluutne element kerib puuteekraanil sisuga kaasa. */
+.suurendus__sisu {
+  width: 100%;
+  max-width: 1120px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--v2);
+  text-align: center;
+}
+
+.suurendus img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 76vh;
+  object-fit: contain;
+  margin: 0 auto;
+  border-radius: var(--raadius);
+  background: var(--pind);
+}
+
+.suurendus__tekst {
+  margin: 0 auto;
+  font-size: 0.9rem;
+  color: var(--hall);
+  max-width: 70ch;
+}
+
+.suurendus__riba {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--v2);
+}
+
+.suurendus__nupud {
+  display: flex;
+  justify-content: center;
+  gap: var(--v2);
+}
+
+@media (max-width: 520px) {
+  .suurendus img {
+    max-height: 62vh;
+  }
+
+  .suurendus__nupud .nupp {
+    flex: 1;
+  }
+}
+
+/* --- Leivapuru ----------------------------------------------------------- */
+
+.leivapuru {
+  padding-top: var(--v3);
+  font-size: 0.85rem;
+  color: var(--hall);
+}
+
+.leivapuru ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.leivapuru li:not(:last-child)::after {
+  content: '/';
+  margin-left: 0.5rem;
+  color: var(--hall-tume);
+}
+
+.leivapuru a {
+  color: var(--hall);
+}
+
+/* --- Lehe pealkirjaplokk ------------------------------------------------- */
+
+.lehepais {
+  padding: clamp(2.5rem, 6vw, 4.5rem) 0 clamp(2rem, 4vw, 3rem);
+  border-bottom: 1px solid var(--serv);
+  background: linear-gradient(180deg, #131317 0%, var(--must) 100%);
+}
+
+.lehepais p {
+  color: var(--hall);
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  margin-bottom: 0;
+}
+
+/* --- Korduvad küsimused -------------------------------------------------- */
+
+.kkk {
+  border-top: 1px solid var(--serv);
+}
+
+.kkk details {
+  border-bottom: 1px solid var(--serv);
+}
+
+.kkk summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--v2);
+  padding: 1.25rem 0;
+  min-height: 44px;
+  font-family: var(--pealkiri);
+  font-size: 1.02rem;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+.kkk summary::-webkit-details-marker {
+  display: none;
+}
+
+.kkk summary::after {
+  content: '+';
+  flex: none;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--kuld);
+}
+
+.kkk details[open] summary::after {
+  content: '\2013';
+}
+
+.kkk details p {
+  color: var(--hall);
+  padding-bottom: 1.25rem;
+}
+
+/* --- Vorm ---------------------------------------------------------------- */
+
+.vorm {
+  display: grid;
+  gap: var(--v3);
+}
+
+.valjad {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--v2) var(--v3);
+}
+
+.vali {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.vali--lai {
+  grid-column: 1 / -1;
+}
+
+label {
+  font-size: 0.88rem;
+  letter-spacing: 0.04em;
+  color: var(--valge);
+}
+
+.abi {
+  font-size: 0.82rem;
+  color: var(--hall);
+}
+
+input[type='text'],
+input[type='email'],
+input[type='tel'],
+input[type='url'],
+textarea {
+  width: 100%;
+  min-height: 48px;
+  padding: 0.7rem 0.9rem;
+  background: var(--pind);
+  border: 1px solid var(--serv-tugev);
+  border-radius: var(--raadius);
+  color: var(--valge);
+  font-family: var(--tekst);
+  font-size: 1rem;
+}
+
+textarea {
+  min-height: 170px;
+  resize: vertical;
+}
+
+input:focus,
+textarea:focus {
+  border-color: var(--kuld);
+  outline: none;
+}
+
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--kuld-hele);
+  outline-offset: 2px;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+legend {
+  padding: 0 0 0.6rem;
+  font-size: 0.88rem;
+  letter-spacing: 0.04em;
+}
+
+.raadiod {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--v2);
+}
+
+.raadio,
+.linnuke {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  min-height: 44px;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--serv-tugev);
+  border-radius: var(--raadius);
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.linnuke {
+  align-items: flex-start;
+  border: 0;
+  padding: 0;
+}
+
+.raadio input,
+.linnuke input {
+  width: 20px;
+  height: 20px;
+  margin: 0.2rem 0 0;
+  accent-color: var(--kuld);
+  flex: none;
+}
+
+.meepott {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.vorm__teade {
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--serv-kuld);
+  border-radius: var(--raadius);
+  background: var(--pind);
+  font-size: 0.95rem;
+}
+
+.vorm__teade:empty {
+  display: none;
+}
+
+/* --- Kontaktiplokk ------------------------------------------------------- */
+
+.kontakt-ruudustik {
+  display: grid;
+  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  gap: clamp(2rem, 5vw, 4rem);
+  align-items: start;
+}
+
+.andmeplokk {
+  padding: clamp(1.5rem, 3vw, 2rem);
+  background: var(--pind);
+  border: 1px solid var(--serv);
+  border-radius: var(--raadius);
+}
+
+.andmeplokk dl {
+  margin: 0;
+  display: grid;
+  gap: var(--v2);
+}
+
+.andmeplokk dt {
+  font-size: 0.75rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--hall);
+  margin-bottom: 0.15rem;
+}
+
+.andmeplokk dd {
+  margin: 0;
+  font-size: 1.05rem;
+  overflow-wrap: anywhere;
+}
+
+.andmeplokk a {
+  color: var(--valge);
+  text-decoration: none;
+  border-bottom: 1px solid var(--serv-kuld);
+}
+
+.andmeplokk a:hover {
+  color: var(--kuld-hele);
+}
+
+/* --- Jalus --------------------------------------------------------------- */
+
+.jalus {
+  border-top: 1px solid var(--serv);
+  background: var(--must-2);
+  padding: clamp(3rem, 6vw, 4.5rem) 0 var(--v4);
+  font-size: 0.95rem;
+}
+
+.jalus__ylemine {
+  display: grid;
+  grid-template-columns: minmax(0, 4fr) minmax(0, 3fr) minmax(0, 4fr);
+  gap: clamp(2rem, 4vw, 3rem);
+  padding-bottom: var(--v4);
+  border-bottom: 1px solid var(--serv);
+}
+
+.jalus img.jalus__logo {
+  width: 156px;
+  margin-bottom: var(--v2);
+}
+
+.jalus h2 {
+  font-size: 0.75rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--hall);
+  margin-bottom: var(--v2);
+}
+
+.jalus ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.jalus a {
+  color: var(--valge);
+  text-decoration: none;
+}
+
+.jalus a:hover {
+  color: var(--kuld-hele);
+}
+
+.jalus p {
+  color: var(--hall);
+  margin-bottom: var(--v2);
+}
+
+.jalus__sert {
+  display: flex;
+  align-items: center;
+  gap: var(--v2);
+}
+
+.jalus__sert img {
+  width: 104px;
+  height: 104px;
+  flex: none;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.jalus__sert p {
+  margin: 0;
+  font-size: 0.88rem;
+}
+
+.jalus__sert strong {
+  display: block;
+  color: var(--valge);
+  font-family: var(--pealkiri);
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.jalus__alumine {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--v2) var(--v4);
+  justify-content: space-between;
+  padding-top: var(--v3);
+  color: var(--hall);
+  font-size: 0.85rem;
+}
+
+.jalus__alumine p {
+  margin: 0;
+  color: var(--hall);
+}
+
+.rekvisiidid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.25rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 var(--v2);
+  color: var(--hall);
+  font-size: 0.88rem;
+}
+
+/* --- Lihtlehed ----------------------------------------------------------- */
+
+.proosa {
+  max-width: 70ch;
+}
+
+.proosa h2 {
+  margin-top: var(--v4);
+  font-size: clamp(1.3rem, 2.4vw, 1.7rem);
+}
+
+.proosa h2:first-child {
+  margin-top: 0;
+}
+
+.proosa li {
+  margin-bottom: 0.5rem;
+  color: var(--hall);
+}
+
+.keskel {
+  min-height: 62vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.keskel .kest {
+  width: 100%;
+}
+
+.keskel p {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.keskel .nupu-rida {
+  justify-content: center;
+}
+
+.tyhi-loend {
+  padding: clamp(2rem, 5vw, 3rem);
+  border: 1px dashed var(--serv-tugev);
+  border-radius: var(--raadius);
+  text-align: center;
+  color: var(--hall);
+}
+
+.tyhi-loend p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- Abiklassid ---------------------------------------------------------- */
+
+.ainult-lugejale {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.kuld {
+  color: var(--kuld-hele);
+}
+
+.moot--keskel {
+  justify-content: center;
+}
+
+.nupu-rida--keskel {
+  justify-content: center;
+}
+
+.nupu-rida--tihe {
+  margin-top: 0;
+}
+
+.ruum-yles {
+  margin-top: var(--v3);
+}
+
+/* --- Murdepunktid -------------------------------------------------------- */
+
+@media (max-width: 1024px) {
+  .ruudustik--3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .kastid,
+  .refid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .usaldus,
+  .kontakt-ruudustik,
+  .teenus {
+    grid-template-columns: 1fr;
+  }
+
+  .jalus__ylemine {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 860px) {
+  :root {
+    --pais-korgus: 76px;
+  }
+
+  .pais__logo img {
+    height: 54px;
+  }
+
+  .pais__nav {
+    position: fixed;
+    inset: var(--pais-korgus) 0 auto;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: var(--v2) clamp(1.15rem, 4vw, 2.5rem) var(--v4);
+    background: var(--must);
+    border-bottom: 1px solid var(--serv);
+    max-height: calc(100vh - var(--pais-korgus));
+    overflow-y: auto;
+  }
+
+  .pais__nav[data-avatud='jah'] {
+    display: flex;
+  }
+
+  .pais__nav ul {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+
+  .pais__nav li {
+    border-bottom: 1px solid var(--serv);
+  }
+
+  .pais__nav a {
+    min-height: 56px;
+    font-size: 1.05rem;
+  }
+
+  .pais__nav .nupp {
+    margin-top: var(--v3);
+  }
+
+  .menuu-nupp {
+    display: block;
+  }
+
+  /* mobiilimenüü avaneb tumedale taustale, seega päis ei tohi läbi paista */
+  .pais--hoiv .pais__logo img {
+    height: 54px;
+  }
+
+  .kontakt-plokk {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+}
+
+@media (max-width: 720px) {
+  .ruudustik--3,
+  .ruudustik--2 {
+    grid-template-columns: 1fr;
+  }
+
+  .valjad {
+    grid-template-columns: 1fr;
+  }
+
+  .jalus__ylemine {
+    grid-template-columns: 1fr;
+  }
+
+  .sert-kaart {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .kastid {
+    grid-template-columns: 1fr;
+  }
+
+  .kast {
+    min-height: 0;
+    gap: var(--v3);
+  }
+
+  .hero__rada {
+    flex-direction: column;
+  }
+
+  .hero__rada li + li {
+    border-left: 0;
+    border-top: 1px solid var(--serv);
+  }
+
+  .jaotis-pais--rida {
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 520px) {
+  /* Üks pilt rea peale, siis on foto päriselt vaadatav */
+  .pildid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Telefonis on alguses kaks pilti, laiemal ekraanil kolm */
+  .pildid:not([data-avatud='jah']) > .pilt:nth-of-type(3) {
+    display: none;
+  }
+
+  .refid {
+    grid-template-columns: 1fr;
+  }
+
+  /* maakondade rida peab kitsal ekraanil ühele reale mahtuma */
+  .hero__silt {
+    gap: 0.6rem;
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+  }
+
+  .hero__silt::before {
+    width: 24px;
+  }
+
+  .nupu-rida .nupp {
+    width: 100%;
+  }
+}
+
+/* --- Vähendatud liikumine ------------------------------------------------ */
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+
+  .pilt:hover img {
+    transform: none;
+  }
+}
+
+/* --- Trükk --------------------------------------------------------------- */
+
+@media print {
+  .pais,
+  .menuu-nupp,
+  .suurendus {
+    display: none;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

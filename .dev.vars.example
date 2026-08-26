@@ -1,0 +1,7 @@
+# Kopeeri see fail nimega .dev.vars ja täida väärtused.
+# .dev.vars on .gitignore-s ja seda ei tohi hoidlasse panna.
+# Kohalik test: npx wrangler dev
+
+RESEND_API_KEY="re_..."
+SAATJA="Meryton koduleht <vorm@meryton.ee>"
+SAAJA="info@meryton.ee"

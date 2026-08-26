@@ -1,0 +1,17 @@
+{
+  "name": "meryton",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-21",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    // ilma selleta läheb /api/kontakt staatiliste failide käsitlejasse ja annab 404
+    "run_worker_first": ["/api/*"]
+  },
+  "observability": { "enabled": true }
+
+  // Saladused EI KÄI siia. RESEND_API_KEY, SAATJA ja SAAJA lisa paneelist
+  // (Settings, Variables and secrets) või käsuga: npx wrangler secret put RESEND_API_KEY
+  // Pärast lisamist tee uus deploy, muidu funktsioon neid ei näe.
+}

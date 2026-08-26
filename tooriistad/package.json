@@ -1,0 +1,9 @@
+{
+  "name": "meryton-tooriistad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Galerii piltide töötlemine. Ei ole osa avaldatavast lehest.",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
