@@ -556,6 +556,25 @@ ul {
   color: var(--hall);
 }
 
+/* Turvalise Partneri märgis on must joonis, seega vajab valget ketast */
+.hero__rada--sert {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.hero__rada--sert img {
+  width: 40px;
+  height: 40px;
+  flex: none;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.hero__rada-tekst {
+  min-width: 0;
+}
+
 /* --- Teenusekastid: ainult nimi ja viide -------------------------------- */
 
 .jaotis-pais--rida {
@@ -604,7 +623,7 @@ ul {
   flex-direction: column;
   justify-content: space-between;
   gap: var(--v4);
-  min-height: 186px;
+  min-height: 230px;
   padding: var(--v3) var(--v3) var(--v2);
   background: var(--must);
   text-decoration: none;
@@ -622,15 +641,15 @@ ul {
   z-index: 0;
   background-position: center;
   background-size: cover;
-  opacity: 0.14;
-  filter: grayscale(0.45) brightness(0.55);
+  opacity: 0.24;
+  filter: grayscale(0.35) brightness(0.62);
   transform: scale(1);
   transition: opacity 0.35s ease, transform 0.6s ease;
 }
 
 .kast:hover::before,
 .kast:focus-visible::before {
-  opacity: 0.38;
+  opacity: 0.5;
   transform: scale(1.06);
 }
 
@@ -674,7 +693,7 @@ ul {
 /* Puuteekraanil hõljumist ei ole, seega jääb pilt püsivalt õrnalt näha */
 @media (hover: none) {
   .kast::before {
-    opacity: 0.26;
+    opacity: 0.3;
   }
 }
 
@@ -1894,6 +1913,16 @@ legend {
   .hero__rada li {
     padding: 0.7rem 0.6rem 0.8rem;
     text-align: center;
+  }
+
+  .hero__rada--sert {
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .hero__rada--sert img {
+    width: 26px;
+    height: 26px;
   }
 
   .hero__rada strong {
