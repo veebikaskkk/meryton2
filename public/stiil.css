@@ -600,8 +600,8 @@ ul {
 }
 
 .hero__rada li.hero__rada--sert img {
-  width: 40px;
-  height: 40px;
+  width: 64px;
+  height: 64px;
   flex: none;
   background: #fff;
   border-radius: 50%;
@@ -1962,8 +1962,8 @@ legend {
   }
 
   .hero__rada li.hero__rada--sert img {
-    width: 26px;
-    height: 26px;
+    width: 40px;
+    height: 40px;
   }
 
   .hero__rada strong {
