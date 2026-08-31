@@ -11,6 +11,7 @@ Väljub koodiga 1, kui midagi on katki. Nii saab selle ka CI-sse panna.
 import json
 import os
 import re
+import struct
 import sys
 from html.parser import HTMLParser
 
@@ -143,6 +144,18 @@ def kontrolli_leht(fail):
         pilditee = os.path.join(AVALIK, src.lstrip("/"))
         if not os.path.exists(pilditee):
             viga(fail, f"pilti ei ole olemas: {src}")
+            continue
+        moot = pildi_mootmed(pilditee)
+        if moot and pilt.get("width") and pilt.get("height"):
+            try:
+                m = (int(pilt["width"]), int(pilt["height"]))
+            except ValueError:
+                m = None
+            if m and m != moot:
+                # sama kuvasuhe on lubatud, sest CSS niikuinii skaleerib
+                if abs(m[0] / m[1] - moot[0] / moot[1]) > 0.01:
+                    viga(fail, f"width ja height ei vasta failile {src}: "
+                               f"märgitud {m[0]}x{m[1]}, tegelik {moot[0]}x{moot[1]}")
 
     # 9. Sisemised lingid viitavad olemasolevale
     for href in lugeja.lingid:
@@ -181,6 +194,66 @@ def kontrolli_leht(fail):
 
     return (pealkiri.group(1).strip() if pealkiri else None,
             kirjeldus.group(1).strip() if kirjeldus else None)
+
+
+def pildi_mootmed(tee):
+    """Loeb laiuse ja kõrguse otse failipäisest. PNG, JPEG ja WebP."""
+    with open(tee, "rb") as f:
+        d = f.read(65536)
+
+    if d[:8] == b"\x89PNG\r\n\x1a\n":
+        return struct.unpack(">II", d[16:24])
+
+    if d[:4] == b"RIFF" and d[8:12] == b"WEBP":
+        tykk = d[12:16]
+        if tykk == b"VP8X":
+            w = int.from_bytes(d[24:27], "little") + 1
+            h = int.from_bytes(d[27:30], "little") + 1
+            return w, h
+        if tykk == b"VP8 ":
+            return (int.from_bytes(d[26:28], "little") & 0x3FFF,
+                    int.from_bytes(d[28:30], "little") & 0x3FFF)
+        if tykk == b"VP8L":
+            b = int.from_bytes(d[21:25], "little")
+            return (b & 0x3FFF) + 1, ((b >> 14) & 0x3FFF) + 1
+        return None
+
+    if d[:2] == b"\xff\xd8":
+        i = 2
+        while i < len(d) - 9:
+            if d[i] != 0xFF:
+                i += 1
+                continue
+            mark = d[i + 1]
+            if mark in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7,
+                        0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                h, w = struct.unpack(">HH", d[i + 5:i + 9])
+                return w, h
+            if mark in (0xD8, 0x01) or 0xD0 <= mark <= 0xD7:
+                i += 2
+                continue
+            i += 2 + struct.unpack(">H", d[i + 2:i + 4])[0]
+    return None
+
+
+def kontrolli_kasutuseta_pildid():
+    """Iga pildifail peab kuskil viidatud olema. Galerii pildid on
+    viidatud data-pildid atribuudi JSON-i sees, seepärast otsime
+    failinime kogu teksti seest, mitte ainult src atribuutidest."""
+    tekst = ""
+    for kaust, kaustad, failid in os.walk(AVALIK):
+        for f in failid:
+            if f.endswith((".html", ".css", ".js", ".xml", ".webmanifest")):
+                tekst += open(os.path.join(kaust, f), encoding="utf-8").read()
+
+    pildilaiendid = (".webp", ".png", ".jpg", ".jpeg", ".svg", ".gif", ".avif")
+    for kaust, _, failid in os.walk(os.path.join(AVALIK, "pildid")):
+        for f in failid:
+            if not f.lower().endswith(pildilaiendid):
+                continue
+            rada = os.path.relpath(os.path.join(kaust, f), AVALIK)
+            if rada.replace(os.sep, "/") not in tekst:
+                hoiatus(rada, "ükski leht ega stiilileht ei viita sellele")
 
 
 def kontrolli_pildid():
@@ -243,6 +316,7 @@ def main():
             viga(", ".join(failid), f"sama description mitmel lehel: {tekst}")
 
     kontrolli_pildid()
+    kontrolli_kasutuseta_pildid()
     kontrolli_sitemap()
     kontrolli_saladused()
 

@@ -454,13 +454,13 @@ ul {
 .hero__foon {
   position: absolute;
   inset: 0;
-  background: url('pildid/pais/betoonruum-varjudega-pais.jpg') center center / cover no-repeat;
+  background: url('pildid/pais/betoonruum-varjudega-pais.webp') center center / cover no-repeat;
   filter: saturate(0.85) contrast(1.04) brightness(0.94);
 
   /* Teine variant, mida klient pakkus: betoonist sissesõidutee. See on
      püstformaadis ja teravam, seepärast käib kaasa kerge hägu. Vahetamiseks
      kommenteeri ülemised kaks rida välja ja need kaks sisse.
-  background: url('pildid/pais/betoonist-sissesoidutee-pais.jpg') center 55% / cover no-repeat;
+  background: url('pildid/pais/betoonist-sissesoidutee-pais.webp') center 55% / cover no-repeat;
   filter: saturate(0.8) contrast(1.04) brightness(0.9) blur(3px);
   */
 }
@@ -1423,7 +1423,7 @@ ul {
 /* --- Leivapuru ----------------------------------------------------------- */
 
 .leivapuru {
-  padding-top: var(--v3);
+  margin-bottom: var(--v3);
   font-size: 0.85rem;
   color: var(--hall);
 }
@@ -1450,7 +1450,7 @@ ul {
 /* --- Lehe pealkirjaplokk ------------------------------------------------- */
 
 .lehepais {
-  padding: clamp(2.5rem, 6vw, 4.5rem) 0 clamp(2rem, 4vw, 3rem);
+  padding: clamp(1.5rem, 3vw, 2.25rem) 0 clamp(2rem, 4vw, 3rem);
   border-bottom: 1px solid var(--serv);
   background: linear-gradient(180deg, #131317 0%, var(--must) 100%);
 }

@@ -113,7 +113,8 @@ python3 tooriistad/kontroll.py
 
 Käib läbi: JSON-LD parsib, igal lehel täpselt üks h1, unikaalsed title ja
 description, kõik sisemised lingid ja ankrud viitavad olemasolevale, sildid
-tasakaalus, ühtegi `style=` atribuuti ei ole, ükski pilt üle 400 KB ei ole,
+tasakaalus, ühtegi `style=` atribuuti ei ole, iga `width` ja `height` vastab
+päris failile, ükski pilt üle 400 KB ei ole, ükski pilt ei ole kasutuseta,
 API võtit koodis ei ole, sitemapis ei ole `.html`-lõpuga aadresse.
 
 Väljub koodiga 1, kui midagi on katki.
@@ -165,14 +166,11 @@ ja päise taustapilt on sama väike. Suurel ekraanil on päis ligi 2000 px
 lai ja pilt läheb seal uduseks. Küsi originaalid otse telefonist AirDropi
 või Google Drive'i kaudu — WhatsApp ja meil pakivad pildi väikeseks.
 
-**Päise foto WebP-na.** `pildid/pais/vundamendi-porandakute-pais.jpg` on
-praegu JPEG, sest seda ei tehtud galeriiskriptiga. Kui originaal on käes,
-lase see läbi sama skripti.
-
 **Logo vektorina.** Failis `Meryton_Group_Transparent.svg` on ainult
-sisse pakitud raster, mitte päris vektor. Praegu kasutusel olev
-`pildid/ikoonid/meryton-group-logo.webp` on 283 × 193 px, mis päise jaoks
-piisab, aga suuremaks minna ei saa.
+sisse pakitud raster, mitte päris vektor, aga see raster on 3762 px ja
+sellest on tehtud praegune `pildid/ikoonid/meryton-group-logo.webp`
+(379 × 260 px). Päise jaoks on see rohkem kui piisav. Kui logo peaks
+kunagi suurele pinnale minema, küsi kliendilt SVG, AI või EPS fail.
 
 ## Analüütika
 
@@ -196,7 +194,8 @@ Ads toob nõusolekuriba kaasa. See on teadlik vahetus, mitte tehniline detail.
 
 Klient seadistab selle oma Google'i konto alt aadressil
 business.google.com. Vaja läheb: ettevõtte nimi täpselt nii nagu
-äriregistris, tegevuspiirkond (Pärnumaa, Viljandimaa, Harjumaa),
+äriregistris, tegevuspiirkond (Pärnumaa, Viljandimaa, Märjamaa ja
+Tallinna lähiümbrus),
 telefon, kodulehe aadress, lahtiolekuajad ja fotod tehtud töödest.
 
 Profiil tuleb kinnitada, tavaliselt postkaardiga. Konto peab jääma
@@ -204,6 +203,7 @@ Profiil tuleb kinnitada, tavaliselt postkaardiga. Konto peab jääma
 
 ## Ettevõtte andmed
 
-Meryton Group OÜ, registrikood 16262305, KMKR EE102721669.
+Meryton Group OÜ, registrikood 16262305, KMKR EE102721669,
+MTR EEH014799 (tegevusala: ehitamine).
 Järve põik 5, Kilingi-Nõmme, Pärnumaa 86303.
 +372 5689 3723, info@meryton.ee
