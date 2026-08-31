@@ -166,11 +166,16 @@ ja päise taustapilt on sama väike. Suurel ekraanil on päis ligi 2000 px
 lai ja pilt läheb seal uduseks. Küsi originaalid otse telefonist AirDropi
 või Google Drive'i kaudu — WhatsApp ja meil pakivad pildi väikeseks.
 
-**Logo vektorina.** Failis `Meryton_Group_Transparent.svg` on ainult
-sisse pakitud raster, mitte päris vektor, aga see raster on 3762 px ja
-sellest on tehtud praegune `pildid/ikoonid/meryton-group-logo.webp`
-(379 × 260 px). Päise jaoks on see rohkem kui piisav. Kui logo peaks
-kunagi suurele pinnale minema, küsi kliendilt SVG, AI või EPS fail.
+**Logo loosung.** Päises kasutatav `pildid/ikoonid/meryton-group-logo.webp`
+(419 × 260 px) on **ilma loosungita**, see tähendab märk ja MERYTON GROUP.
+Loosung "KUS VISIOON KOHTUB REAALSUSEGA" on täislogol nii peenike, et 78 px
+kõrguse juures on selle tähekõrgus umbes 2,5 px ja see muutub määrdunud
+jooneks. Seda ei saa lahutusega parandada, see on füüsiline piir. Kui klient
+tahab loosungit lehel näha, tuleb see panna päris tekstina, mitte pildina.
+
+Täislogo koos loosunguga on lähtefailis `Meryton_Group_Transparent.svg`.
+Selle sees on 3762 px raster, mitte päris vektor. Kui logo peaks kunagi
+suurele pinnale minema, küsi kliendilt SVG, AI või EPS fail.
 
 ## Analüütika
 
