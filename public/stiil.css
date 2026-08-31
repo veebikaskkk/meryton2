@@ -327,7 +327,7 @@ ul {
 }
 
 .pais--hoiv .pais__logo img {
-  height: 76px;
+  height: 88px;
 }
 
 .pais__sisu {
@@ -346,7 +346,7 @@ ul {
 
 .pais__logo img {
   width: auto;
-  height: 68px;
+  height: 78px;
 }
 
 .pais__nav {
@@ -454,8 +454,15 @@ ul {
 .hero__foon {
   position: absolute;
   inset: 0;
-  background: url('pildid/pais/vundamendi-porandakute-pais.jpg') center 62% / cover no-repeat;
-  filter: saturate(0.72) contrast(1.06) brightness(0.92);
+  background: url('pildid/pais/betoonruum-varjudega-pais.jpg') center center / cover no-repeat;
+  filter: saturate(0.85) contrast(1.04) brightness(0.94);
+
+  /* Teine variant, mida klient pakkus: betoonist sissesõidutee. See on
+     püstformaadis ja teravam, seepärast käib kaasa kerge hägu. Vahetamiseks
+     kommenteeri ülemised kaks rida välja ja need kaks sisse.
+  background: url('pildid/pais/betoonist-sissesoidutee-pais.jpg') center 55% / cover no-repeat;
+  filter: saturate(0.8) contrast(1.04) brightness(0.9) blur(3px);
+  */
 }
 
 .hero__vari {
@@ -500,7 +507,8 @@ ul {
 }
 
 .hero h1 {
-  max-width: 30ch;
+  max-width: 26ch;
+  text-transform: uppercase;
   font-weight: 700;
   font-size: clamp(2.1rem, 5vw, 3.4rem);
   text-shadow: 0 2px 30px rgba(0, 0, 0, 0.55);
@@ -510,6 +518,16 @@ ul {
   display: block;
   font-style: normal;
   color: var(--kuld-hele);
+}
+
+/* Õhuke kuldne joon pealkirja ja lause vahel, nagu kliendi kavandil */
+.hero__joon {
+  display: block;
+  width: clamp(48px, 10vw, 92px);
+  height: 1px;
+  margin: 0 0 var(--v3);
+  background: var(--kuld);
+  opacity: 0.8;
 }
 
 .hero__jutt {
@@ -557,6 +575,14 @@ ul {
 }
 
 /* Turvalise Partneri märgis on must joonis, seega vajab valget ketast */
+.hero__rada-nr {
+  margin-top: 0.35rem;
+  font-family: var(--pealkiri);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  color: var(--kuld);
+}
+
 .hero__rada--sert {
   display: flex;
   align-items: center;
