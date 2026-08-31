@@ -592,21 +592,14 @@ ul {
 }
 
 /* Turvalise Partneri märgis on must joonis, seega vajab valget ketast */
-.hero__rada-nr {
-  margin-top: 0.35rem;
-  font-family: var(--pealkiri);
-  font-size: 0.7rem;
-  letter-spacing: 0.14em;
-  color: var(--kuld);
-}
-
-.hero__rada--sert {
+.hero__rada li.hero__rada--sert {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  justify-content: space-between;
   gap: 0.75rem;
 }
 
-.hero__rada--sert img {
+.hero__rada li.hero__rada--sert img {
   width: 40px;
   height: 40px;
   flex: none;
@@ -1961,12 +1954,14 @@ legend {
     text-align: center;
   }
 
-  .hero__rada--sert {
-    flex-direction: column;
+  .hero__rada li.hero__rada--sert {
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
     gap: 0.3rem;
   }
 
-  .hero__rada--sert img {
+  .hero__rada li.hero__rada--sert img {
     width: 26px;
     height: 26px;
   }
