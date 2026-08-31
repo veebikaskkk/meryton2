@@ -256,6 +256,29 @@ def kontrolli_kasutuseta_pildid():
                 hoiatus(rada, "ükski leht ega stiilileht ei viita sellele")
 
 
+def kontrolli_vormi_teenused():
+    """Vormi linnukeste value peab ühtima worker.js nimekirjaga. Kui need
+    lahku lähevad, kaob teenuse valik kirjast ära ja midagi ei ütle seda
+    välja: server lihtsalt viskab tundmatu väärtuse minema."""
+    vorm_tee = os.path.join(AVALIK, "kontakt.html")
+    worker_tee = os.path.join(JUUR, "worker.js")
+    if not (os.path.exists(vorm_tee) and os.path.exists(worker_tee)):
+        return
+
+    vorm = set(re.findall(r'name="laad"[^>]*value="([^"]+)"',
+                          open(vorm_tee, encoding="utf-8").read()))
+    plokk = re.search(r"const TEENUSED = \[(.*?)\];",
+                      open(worker_tee, encoding="utf-8").read(), re.S)
+    if not plokk or not vorm:
+        return
+    lubatud = set(re.findall(r"'([^']+)'", plokk.group(1)))
+
+    for puudu in sorted(vorm - lubatud):
+        viga("kontakt.html", f"vormi teenust ei ole worker.js nimekirjas: {puudu}")
+    for kasutu in sorted(lubatud - vorm - {"Muu"}):
+        hoiatus("worker.js", f"nimekirjas on teenus, mida vormil ei ole: {kasutu}")
+
+
 def kontrolli_pildid():
     for kaust, _, failid in os.walk(os.path.join(AVALIK, "pildid")):
         for f in failid:
@@ -317,6 +340,7 @@ def main():
 
     kontrolli_pildid()
     kontrolli_kasutuseta_pildid()
+    kontrolli_vormi_teenused()
     kontrolli_sitemap()
     kontrolli_saladused()
 

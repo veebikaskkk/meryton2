@@ -74,10 +74,10 @@ const EPOST = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 const TEENUSED = [
   'Eramu ehitus ja renoveerimine',
   'Põrandakatete paigaldus',
-  'Vannitoa ehitus ja renoveerimine',
-  'Vee- ja kanalisatsioonitööd',
-  'Kütte- ja ventilatsioonitööd',
-  'Saunad, terrassid ja varjualused',
+  'Vannitoad ja renoveerimine',
+  'Vesi ja kanalisatsioon',
+  'Küte ja ventilatsioon',
+  'Saunad, terrassid, varjualused ja muud huvitavat',
   'Muu'
 ];
 

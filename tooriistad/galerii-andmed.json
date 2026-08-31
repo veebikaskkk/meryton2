@@ -3,7 +3,7 @@
   "kategooriad": [
     {
       "kaust": "porandatood",
-      "nimi": "Põrandatööd",
+      "nimi": "Põrandakatete paigaldus",
       "kirjeldus": "Vaip, LVT, parkett ja muud pinnakatted eramutes ning alltöövõtu korras ka suurematel objektidel.",
       "pildid": [
         {
@@ -460,7 +460,7 @@
     },
     {
       "kaust": "vannitoad",
-      "nimi": "Vannitoad",
+      "nimi": "Vannitoad ja renoveerimine",
       "kirjeldus": "Vannitoa renoveerimine lammutusest valmis ruumini: torustik, hüdroisolatsioon, plaatimine ja sanitaartehnika.",
       "pildid": [
         {
