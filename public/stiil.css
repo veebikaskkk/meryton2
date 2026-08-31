@@ -516,13 +516,10 @@ ul {
 .hero h1 {
   max-width: 36ch;
   text-transform: uppercase;
-  /* em on plokk ja teeb teise rea, tasakaalustaja seda ümber ei tõsta */
+  /* reavahetused on käsitsi paigas, tasakaalustaja neid ümber ei tõsta */
   text-wrap: initial;
   font-weight: 700;
-  /* Suurus on valitud nii, et teine rida "ME LOOME LAHENDUSI, MIS KESTAVAD"
-     mahub kogu lauaarvuti laiuse vahemikus ühele reale. Suurem font murraks
-     selle kitsamal ekraanil kolmandale reale. */
-  font-size: clamp(2.1rem, 4.2vw, 3.25rem);
+  font-size: clamp(2.1rem, 5vw, 3.4rem);
   text-shadow: 0 2px 30px rgba(0, 0, 0, 0.55);
 }
 
@@ -533,6 +530,15 @@ ul {
 }
 
 /* Õhuke kuldne joon pealkirja ja lause vahel, nagu kliendi kavandil */
+/* Kliendi kavandil murdub pealkiri "ME LIHTSALT EI" ja "EHITA." vahelt,
+   see paus on meelega. Telefonis need reavahetused peidame, seal murrab
+   tekst ise. Tühikud br ümber jäävad alles, muidu liituvad sõnad kokku. */
+@media (max-width: 860px) {
+  .reavahetus {
+    display: none;
+  }
+}
+
 .hero__joon {
   display: block;
   width: clamp(48px, 10vw, 92px);
