@@ -1460,9 +1460,16 @@ ul {
 /* --- Lehe pealkirjaplokk ------------------------------------------------- */
 
 .lehepais {
-  padding: clamp(1.5rem, 3vw, 2.25rem) 0 clamp(2rem, 4vw, 3rem);
+  padding: clamp(1.5rem, 3vw, 2.25rem) 0 clamp(1.75rem, 3vw, 2.5rem);
   border-bottom: 1px solid var(--serv);
   background: linear-gradient(180deg, #131317 0%, var(--must) 100%);
+}
+
+/* Lehepäise alumine vahe ja jaotise ülemine vahe lähevad kohakuti ja
+   kokku tuli 144 px tühja. Vahetult päise järel tuleva jaotise ülemist
+   vahet vähendame. */
+.lehepais + .sektsioon {
+  padding-top: clamp(2.5rem, 5vw, 3.5rem);
 }
 
 .lehepais p {
