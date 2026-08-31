@@ -1471,18 +1471,6 @@ ul {
   margin-bottom: 0;
 }
 
-/* .lehepais p on kaalult tugevam, seega element tuleb valikusse kaasa võtta */
-.lehepais p.lehepais__valjatoste {
-  font-family: var(--pealkiri);
-  font-size: clamp(1.15rem, 2.2vw, 1.5rem);
-  font-weight: 600;
-  line-height: 1.35;
-  letter-spacing: -0.01em;
-  color: var(--kuld-hele);
-  max-width: 34ch;
-  text-wrap: balance;
-}
-
 
 /* --- Vorm ---------------------------------------------------------------- */
 
