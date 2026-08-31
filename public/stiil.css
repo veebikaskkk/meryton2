@@ -2070,3 +2070,248 @@ legend {
     color: #000;
   }
 }
+
+/* --- Meist: tekst ja foto vaheldumisi ------------------------------------ */
+
+/* Ekraanilugejale nähtav pealkiri, mida silmaga ei ole vaja */
+.peidus {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.lugu {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  gap: clamp(2rem, 5vw, 4rem);
+  align-items: center;
+}
+
+.lugu + .lugu {
+  margin-top: clamp(3rem, 7vw, 5.5rem);
+}
+
+/* Iga teine plokk teistpidi, siis ei jää foto alati samale poole */
+.lugu--poordes .lugu__tekst {
+  order: 2;
+}
+
+.lugu__tekst p:last-of-type {
+  margin-bottom: 0;
+}
+
+.lugu__tekst h3 {
+  color: var(--kuld-hele);
+  margin-bottom: var(--v2);
+}
+
+.lugu__pilt {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--serv);
+}
+
+.lugu__pilt img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+  filter: saturate(0.85) brightness(0.92);
+  transition: filter 0.4s ease, transform 0.6s ease;
+}
+
+.lugu__pilt:hover img {
+  filter: none;
+  transform: scale(1.03);
+}
+
+.juhtlause {
+  margin: clamp(3rem, 7vw, 5.5rem) 0;
+  padding: clamp(1.75rem, 4vw, 2.75rem) 0;
+  border-top: 1px solid var(--serv-kuld);
+  border-bottom: 1px solid var(--serv-kuld);
+}
+
+.juhtlause p {
+  margin: 0;
+  max-width: none;
+  font-family: var(--pealkiri);
+  font-size: clamp(1.35rem, 3vw, 2.1rem);
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  color: var(--valge);
+  text-wrap: balance;
+}
+
+/* --- Kuidas me töötame: viis sammu, mis avanevad klõpsuga ---------------- */
+
+.sammud {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--serv);
+}
+
+.sammud > li {
+  border-bottom: 1px solid var(--serv);
+}
+
+.sammud summary {
+  display: flex;
+  align-items: baseline;
+  gap: clamp(1rem, 3vw, 2.25rem);
+  padding: clamp(1.1rem, 2.5vw, 1.6rem) 0;
+  cursor: pointer;
+  list-style: none;
+  transition: color 0.2s ease;
+}
+
+.sammud summary::-webkit-details-marker {
+  display: none;
+}
+
+.samm__nr {
+  flex: none;
+  font-family: var(--pealkiri);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  color: var(--kuld);
+}
+
+.samm__nimi {
+  flex: 1;
+  font-family: var(--pealkiri);
+  font-size: clamp(1.15rem, 2.4vw, 1.6rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--valge);
+  text-transform: uppercase;
+  transition: color 0.2s ease;
+}
+
+/* Pluss, mis avatud sammul pöördub miinuseks */
+.sammud summary::after {
+  content: '';
+  flex: none;
+  align-self: center;
+  width: 14px;
+  height: 14px;
+  background:
+    linear-gradient(var(--hall), var(--hall)) center / 100% 1px no-repeat,
+    linear-gradient(var(--hall), var(--hall)) center / 1px 100% no-repeat;
+  transition: transform 0.3s ease, background-image 0.2s ease;
+}
+
+.sammud details[open] summary::after {
+  background:
+    linear-gradient(var(--kuld), var(--kuld)) center / 100% 1px no-repeat;
+  transform: rotate(180deg);
+}
+
+.sammud summary:hover .samm__nimi,
+.sammud details[open] .samm__nimi {
+  color: var(--kuld-hele);
+}
+
+.sammud details p {
+  margin: 0 0 clamp(1.1rem, 2.5vw, 1.6rem);
+  padding-left: clamp(2.6rem, 6vw, 5.4rem);
+  color: var(--hall);
+  max-width: 68ch;
+}
+
+.samm__kokkuvote {
+  margin: clamp(2rem, 4vw, 3rem) 0 0;
+  font-family: var(--pealkiri);
+  font-size: clamp(1rem, 1.8vw, 1.2rem);
+  font-weight: 600;
+  color: var(--kuld-hele);
+  letter-spacing: -0.01em;
+}
+
+.samm__kokkuvote + .sert-kaart {
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
+/* --- Teenuse foto koos viitega galeriile --------------------------------- */
+
+.teenus__galerii {
+  margin-top: var(--v3);
+}
+
+.teenus__pilt {
+  margin: 0 0 var(--v2);
+  overflow: hidden;
+  border: 1px solid var(--serv);
+}
+
+.teenus__pilt img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  filter: saturate(0.85) brightness(0.92);
+  transition: filter 0.4s ease, transform 0.6s ease;
+}
+
+.teenus__galerii:hover .teenus__pilt img,
+.teenus__galerii:focus-visible .teenus__pilt img {
+  filter: none;
+  transform: scale(1.03);
+}
+
+.teenus__galerii {
+  display: block;
+  text-decoration: none;
+}
+
+/* Telefonis läheb teenuse nimi ja foto ülestikku, foto ei pea siis
+   terve ekraani laiuselt kõrge olema */
+@media (max-width: 860px) {
+  .teenus__pilt img {
+    aspect-ratio: 16 / 9;
+  }
+}
+
+.teenus__viide {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--hall);
+  transition: color 0.25s ease;
+}
+
+.teenus__galerii:hover .teenus__viide,
+.teenus__galerii:focus-visible .teenus__viide {
+  color: var(--kuld);
+}
+
+.teenus__galerii:hover .nool,
+.teenus__galerii:focus-visible .nool {
+  width: 32px;
+}
+
+@media (max-width: 860px) {
+  .lugu {
+    grid-template-columns: 1fr;
+  }
+
+  /* Telefonis tuleb foto alati teksti järele, olenemata suunast */
+  .lugu--poordes .lugu__tekst {
+    order: 0;
+  }
+}
