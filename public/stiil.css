@@ -469,12 +469,19 @@ ul {
   position: absolute;
   inset: 0;
   background:
+    /* päise taga ainult nii palju, et menüü loeks */
     linear-gradient(180deg,
-      rgba(11, 11, 12, 0.88) 0%,
-      rgba(11, 11, 12, 0.25) 32%,
-      rgba(11, 11, 12, 0.55) 62%,
-      rgba(11, 11, 12, 0.96) 100%),
-    linear-gradient(90deg, rgba(11, 11, 12, 0.8) 0%, rgba(11, 11, 12, 0.1) 55%);
+      rgba(11, 11, 12, 0.62) 0%,
+      rgba(11, 11, 12, 0.12) 20%,
+      rgba(11, 11, 12, 0) 40%,
+      rgba(11, 11, 12, 0.55) 100%),
+    /* tekst istub vasakul, seega tumedus koondub sinna */
+    linear-gradient(90deg,
+      rgba(11, 11, 12, 0.93) 0%,
+      rgba(11, 11, 12, 0.88) 30%,
+      rgba(11, 11, 12, 0.55) 52%,
+      rgba(11, 11, 12, 0.18) 72%,
+      rgba(11, 11, 12, 0) 88%);
 }
 
 .hero__sisu {
@@ -507,8 +514,10 @@ ul {
 }
 
 .hero h1 {
-  max-width: 26ch;
+  max-width: 24ch;
   text-transform: uppercase;
+  /* reavahetused on käsitsi paigas, tasakaalustaja neid ümber ei tõsta */
+  text-wrap: initial;
   font-weight: 700;
   font-size: clamp(2.1rem, 5vw, 3.4rem);
   text-shadow: 0 2px 30px rgba(0, 0, 0, 0.55);
@@ -521,6 +530,14 @@ ul {
 }
 
 /* Õhuke kuldne joon pealkirja ja lause vahel, nagu kliendi kavandil */
+/* Kavandil on pealkiri neljal real. Telefonis murrab tekst ise, seega
+   käsitsi pandud reavahetused jäävad sinna alles ainult laual. */
+@media (max-width: 860px) {
+  .reavahetus {
+    display: none;
+  }
+}
+
 .hero__joon {
   display: block;
   width: clamp(48px, 10vw, 92px);
