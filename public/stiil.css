@@ -973,6 +973,15 @@ ul {
   font-size: clamp(1.4rem, 2.5vw, 1.95rem);
 }
 
+/* Parem veerg algab teenuse numbri võrra allpool, siis on kirjeldus
+   pealkirjaga ühel joonel, mitte numbriga. Number stackub alla 1024 px,
+   seal nihet vaja ei ole. */
+@media (min-width: 1025px) {
+  .teenus > div:last-child {
+    padding-top: calc(0.72rem * 1.65 + 0.6rem);
+  }
+}
+
 .teenus__nr {
   font-family: var(--pealkiri);
   font-size: 0.72rem;
@@ -1460,6 +1469,18 @@ ul {
   color: var(--hall);
   font-size: clamp(1rem, 1.5vw, 1.15rem);
   margin-bottom: 0;
+}
+
+/* .lehepais p on kaalult tugevam, seega element tuleb valikusse kaasa võtta */
+.lehepais p.lehepais__valjatoste {
+  font-family: var(--pealkiri);
+  font-size: clamp(1.15rem, 2.2vw, 1.5rem);
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: var(--kuld-hele);
+  max-width: 34ch;
+  text-wrap: balance;
 }
 
 
@@ -2111,9 +2132,49 @@ legend {
 }
 
 .lugu__pilt {
+  position: relative;
+  display: block;
   margin: 0;
   overflow: hidden;
   border: 1px solid var(--serv);
+  text-decoration: none;
+}
+
+/* Viide tõuseb foto alaservast nähtavale, kui hiir on pildi peal */
+.lugu__viide {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: var(--v3) var(--v2) var(--v2);
+  font-family: var(--pealkiri);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--valge);
+  background: linear-gradient(rgba(11, 11, 12, 0), rgba(11, 11, 12, 0.85));
+  opacity: 0;
+  transform: translateY(0.6rem);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.lugu__pilt:hover .lugu__viide,
+.lugu__pilt:focus-visible .lugu__viide {
+  opacity: 1;
+  transform: none;
+}
+
+/* Puuteekraanil hõljumist ei ole, seega viide on kohe näha */
+@media (hover: none) {
+  .lugu__viide {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 .lugu__pilt img {
@@ -2126,9 +2187,15 @@ legend {
   transition: filter 0.4s ease, transform 0.6s ease;
 }
 
-.lugu__pilt:hover img {
+.lugu__pilt:hover img,
+.lugu__pilt:focus-visible img {
   filter: none;
   transform: scale(1.03);
+}
+
+.lugu__pilt:hover .nool,
+.lugu__pilt:focus-visible .nool {
+  width: 32px;
 }
 
 .juhtlause {
